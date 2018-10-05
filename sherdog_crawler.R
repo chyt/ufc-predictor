@@ -1,17 +1,18 @@
 library(rvest)
-library(dplyr)
+library(plyr)
 library(lubridate)
 
 #Web-Scrapping to Get Most Recent Data
 #------------------------------------------------------------------------------------------------------------------------------
 EventsInfo=data.frame()
 EventsUrl=c()
-for (k in 1:4){
+for (k in 1:5){
   EventUrl=read_html(paste('http://www.sherdog.com/organizations/Ultimate-Fighting-Chanmpionship-2/recent-events/',k,sep=''))
-  EventInfo=EventUrl %>% html_nodes('table') %>% html_table()
-  EventsInfo=rbind(EventsInfo,as.data.frame(EventInfo[2])[-1,])
-  EventUrl=EventUrl %>% html_nodes('td') %>% html_nodes('a') %>% html_attr('href')
-  EventsUrl=append(EventsUrl,EventUrl[-(1:8)])
+  EventTable=EventUrl %>% html_nodes(xpath='//div[@id="recent_tab"]/table')
+  EventInfo=EventTable %>% html_table()
+  EventsInfo=rbind(EventsInfo,as.data.frame(EventInfo[1])[-1,])
+  EventUrl=EventTable %>% html_nodes('td') %>% html_nodes('a') %>% html_attr('href')
+  EventsUrl=append(EventsUrl,EventUrl)
 }
 
 EventsUrl=sapply(EventsUrl,function(x) paste('http://sherdog.com',x,sep=''))
@@ -100,6 +101,8 @@ for(j in seq(1,length(Fighters_URL))){
 
 Fighters_Backup=Fighters_Scrapped
 
+#Fighters_Scrapped=Fighters_Backup
+
 #Data Cleaning
 
 Error=Fighters_Scrapped[Fighters_Scrapped$Class==' VS ',c(1:8,10)]
@@ -108,20 +111,18 @@ Fighters_Scrapped=Fighters_Scrapped[Fighters_Scrapped$Class!=' VS ',]
 Error_p1=Error[grepl('lbs',Error$Height),]
 Error=Error[!grepl('lbs',Error$Height),]
 
-
-
-Error_p2=Error_p1[c(6,13),]
-Error_p1=Error_p1[-c(6,13),]
-colnames(Error_p2)=c('Birth_Date','Age','Birth_Place','Country','Height','Weight','Association','Class','Fighter_id','Url')
+Error_p2=Error_p1[c(2,4),]
+Error_p1=Error_p1[-c(2,4),]
+colnames(Error_p2)=c('Birth_Date','Age','Birth_Place','Country','Height','Weight','Association','Class','Fighter_id')
 Error_p2$Name=c('Mirsad Bektic','Noad Lahat')
 
-Error_p3=Error_p1[Error_p1$Association==Error_p1$Association[3],c(1:7,9,10)]
+Error_p3=Error_p1[Error_p1$Association==Error_p1$Association[3],c(1:6,8,9)]
 Error_p1=Error_p1[!Error_p1$Association==Error_p1$Association[3],]
-colnames(Error_p3)=c('Name','Birth_Date','Age','Country','Height','Weight','Class','Fighter_id','Url')
+colnames(Error_p3)=c('Name','Birth_Date','Age','Country','Height','Weight','Class','Fighter_id')
 
-colnames(Error_p1)=c('Name','Birth_Date','Age','Country','Height','Weight','Association','Class','Fighter_id','Url')
+colnames(Error_p1)=c('Name','Birth_Date','Age','Country','Height','Weight','Association','Class','Fighter_id')
 
-colnames(Error)=c('Name','Birth_Date','Age','Birth_Place','Country','Height','Weight','Class','Fighter_id','Url')
+colnames(Error)=c('Name','Birth_Date','Age','Birth_Place','Country','Height','Weight','Class','Fighter_id')
 
 
 Fighters_Scrapped=rbind.fill(Fighters_Scrapped,Error,Error_p1,Error_p2,Error_p3)
@@ -160,61 +161,62 @@ for (i in seq(7,10)){
 
 #Scrape Event Location Data
 #-----------------------------------------------------------------------------------------------------------------------------
-Stadiums=count(EventsInfo$X3)
-Stadiums$x=as.character((Stadiums$x))
-geoCodeDetails = function (address){
-  geo_reply=geocode(address,output='all',messaging=TRUE, override_limit = TRUE)
-  answer=data.frame(lat=NA,long=NA,accuracy=NA,formatted_address=NA,address_type=NA,status=NA)
-  answer$status=geo_reply$status
-  
-  while(geo_reply$status=='OVER_QUERY_LIMIT'){
-    print('OVER QUERY LIMIT - Pausing for 1 hour at:')
-    time=sys.time()
-    print(as.character(time))
-    sys.sleep(60*60)
-    geo_reply=geocode(address,output='all',messaging=TRUE,override_limit = TRUE)
-    answer$status=geo_reply$status
-  }
-  
-  if(geo_reply$status !='OK'){
-    return(answer)
-  }
-  answer$lat=geo_reply$result[[1]]$geometry$location$lat
-  answer$long=geo_reply$result[[1]]$geometry$location$lng
-  if (length(geo_reply$result[[1]]$types)>0){
-    answer$accuracy=geo_reply$result[[1]]$types[[1]]
-  }
-  answer$address_type=paste(geo_reply$result[[1]]$types,collapse=',')
-  answer$formatted_address=geo_reply$result[[1]]$formatted_address
-  
-  return(answer)
-}
 
-Stadiums$lat=NA
-Stadiums$long=NA
-
-for (i in seq(1,nrow(Stadiums))){
-  Detail=geoCodeDetails(Stadiums$x[i])
-  Stadiums$lat[i]=Detail$lat
-  Stadiums$long[i]=Detail$long
-  Stadiums$Address=Datail$formatted_address
-}
-
-#Manually search and filling
-#Stadiums[is.na(Stadiums$lat),]
-Stadiums[21,3:4]=c(40.741895,-73.989308)
-Stadiums[37,3:4]=c(42.878056,-78.8775)
-Stadiums[69:71,3:4]=matrix(rep(c(-23.577721, -46.656048),3),3,byrow=TRUE)
-Stadiums[134,3:4]=c(46.830833, -71.246389)
-Stadiums[139,3:4]=c(-23.535033,-46.636617)
-Stadiums$x=gsub('EVENT CANCELED - ','',Stadiums$x)
+# Stadiums=count(EventsInfo$X3)
+# Stadiums$x=as.character((Stadiums$x))
+# geoCodeDetails = function (address){
+#   geo_reply=geocode(address,output='all',messaging=TRUE, override_limit = TRUE)
+#   answer=data.frame(lat=NA,long=NA,accuracy=NA,formatted_address=NA,address_type=NA,status=NA)
+#   answer$status=geo_reply$status
+#   
+#   while(geo_reply$status=='OVER_QUERY_LIMIT'){
+#     print('OVER QUERY LIMIT - Pausing for 1 hour at:')
+#     time=sys.time()
+#     print(as.character(time))
+#     sys.sleep(60*60)
+#     geo_reply=geocode(address,output='all',messaging=TRUE,override_limit = TRUE)
+#     answer$status=geo_reply$status
+#   }
+#   
+#   if(geo_reply$status !='OK'){
+#     return(answer)
+#   }
+#   answer$lat=geo_reply$result[[1]]$geometry$location$lat
+#   answer$long=geo_reply$result[[1]]$geometry$location$lng
+#   if (length(geo_reply$result[[1]]$types)>0){
+#     answer$accuracy=geo_reply$result[[1]]$types[[1]]
+#   }
+#   answer$address_type=paste(geo_reply$result[[1]]$types,collapse=',')
+#   answer$formatted_address=geo_reply$result[[1]]$formatted_address
+#   
+#   return(answer)
+# }
+# 
+# Stadiums$lat=NA
+# Stadiums$long=NA
+# 
+# for (i in seq(1,nrow(Stadiums))){
+#   Detail=geoCodeDetails(Stadiums$x[i])
+#   Stadiums$lat[i]=Detail$lat
+#   Stadiums$long[i]=Detail$long
+#   Stadiums$Address=Datail$formatted_address
+# }
+# 
+# #Manually search and filling
+# #Stadiums[is.na(Stadiums$lat),]
+# Stadiums[21,3:4]=c(40.741895,-73.989308)
+# Stadiums[37,3:4]=c(42.878056,-78.8775)
+# Stadiums[69:71,3:4]=matrix(rep(c(-23.577721, -46.656048),3),3,byrow=TRUE)
+# Stadiums[134,3:4]=c(46.830833, -71.246389)
+# Stadiums[139,3:4]=c(-23.535033,-46.636617)
+# Stadiums$x=gsub('EVENT CANCELED - ','',Stadiums$x)
 
 #Save Result as CSV
 
-write.csv(Fighters_Updated,'Fighters_Updated.csv')
-write.csv(Fights_Scrapped,'Fights_Updated.csv')
-write.csv(EventsInfo,'EventsInfo.csv')
-write.csv(Stadiums,'Stadiums.csv')
+write.csv(Fighters_Updated,'Sherdog_Fighters.csv')
+write.csv(Fights_Scrapped,'Sherdog_Fights.csv')
+write.csv(EventsInfo,'Sherdog_Events.csv')
+#write.csv(Stadiums,'Stadiums.csv')
 
 #------Some Manualy Inspecting and Cleaning for typos--------------
 
