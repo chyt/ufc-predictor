@@ -1,0 +1,1831 @@
+nickname,id,name,url
+"""Marreta""",0,Thiago Santos,http://www.fightmetric.com/fighter-details/dea070ed4a2a8281
+"""Ya Boi""",1,Eryk Anders,http://www.fightmetric.com/fighter-details/cad24459b28592ca
+"""Cowboy""",2,Alex Oliveira,http://www.fightmetric.com/fighter-details/57b10fca4f9c9a7a
+"""Semento""",3,Carlo Pedersoli,http://www.fightmetric.com/fighter-details/198994b47f395af0
+"""Smile'N""",4,Sam Alvey,http://www.fightmetric.com/fighter-details/d156513a19acf856
+"""Minotouro""",5,Rogerio Nogueira,http://www.fightmetric.com/fighter-details/73e09f837f3b5ecc
+"""The Baron""",6,Renan Barao,http://www.fightmetric.com/fighter-details/2c99576fefe53c7c
+"""Mr. Highlight""",7,Andre Ewell,http://www.fightmetric.com/fighter-details/5f6f049d54728e88
+"""Quiet Storm""",8,Randa Markos,http://www.fightmetric.com/fighter-details/4a57ebb14315b251
+,9,Marina Rodriguez,http://www.fightmetric.com/fighter-details/cd2c4d30c6e13b47
+"""Do Bronx""",10,Charles Oliveira,http://www.fightmetric.com/fighter-details/07225ba28ae309b6
+"""The Spartan""",11,Christos Giagos,http://www.fightmetric.com/fighter-details/de45aaae23dfa392
+"""Massaranduba""",12,Francisco Trinaldo,http://www.fightmetric.com/fighter-details/a8283a4f415e1eb9
+,13,Evan Dunham,http://www.fightmetric.com/fighter-details/e5c9de15bb58b1c6
+"""KLB""",14,Luis Henrique,http://www.fightmetric.com/fighter-details/e5bda12faabfc850
+"""Superman""",15,Ryan Spann,http://www.fightmetric.com/fighter-details/a67f5afa8d6a1b80
+,16,Augusto Sakai,http://www.fightmetric.com/fighter-details/441eacbe20e0e80b
+"""The Vanilla Gorilla""",17,Chase Sherman,http://www.fightmetric.com/fighter-details/01b352b6a9074d5c
+"""The Panther""",18,Sergio Moraes,http://www.fightmetric.com/fighter-details/1bcaac2d99b90fce
+"""Killa B""",19,Ben Saunders,http://www.fightmetric.com/fighter-details/484acc7b0f856ce9
+"""Sheetara""",20,Mayra Bueno Silva,http://www.fightmetric.com/fighter-details/cc8c623cca88f54f
+"""The Savage""",21,Gillian Robertson,http://www.fightmetric.com/fighter-details/38c7f72747f4f712
+,22,Thales Leites,http://www.fightmetric.com/fighter-details/cfb65863d5099327
+,23,Hector Lombard,http://www.fightmetric.com/fighter-details/db1f2ed63b54b9a7
+"""Capoeira""",24,Elizeu Zaleski dos Santos,http://www.fightmetric.com/fighter-details/8adcbd525fab8d9b
+"""The Italian Stallion""",25,Luigi Vendramini,http://www.fightmetric.com/fighter-details/2f1a257d6777096d
+"""The Brazilian Gangsta""",26,Livinha Souza,http://www.fightmetric.com/fighter-details/dab8cfbb6b1db10a
+"""Astro Girl""",27,Alex Chambers,http://www.fightmetric.com/fighter-details/26b63bc5c0c1f65d
+"""Super Samoan""",28,Mark Hunt,http://www.fightmetric.com/fighter-details/eef9b891edbd4604
+"""The Boa Constrictor""",29,Aleksei Oleinik,http://www.fightmetric.com/fighter-details/98c23cb6da5b3352
+,30,Jan Blachowicz,http://www.fightmetric.com/fighter-details/99df7d0a2a08a8a8
+"""The Miner""",31,Nikita Krylov,http://www.fightmetric.com/fighter-details/1091d4d957141094
+"""The Pitbull""",32,Andrei Arlovski,http://www.fightmetric.com/fighter-details/3738e68d2261e60f
+"""Abrek""",33,Shamil Abdurakhimov,http://www.fightmetric.com/fighter-details/2f5cbecbbe18bac4
+,34,Aleksei Kunchenko,http://www.fightmetric.com/fighter-details/e2ccd9a9ace60de7
+"""Pitbull""",35,Thiago Alves,http://www.fightmetric.com/fighter-details/31ee470ef5dc8d7f
+,36,Khalid Murtazaliev,http://www.fightmetric.com/fighter-details/231cae8b77fbbcc1
+"""The Doberman""",37,CB Dollaway,http://www.fightmetric.com/fighter-details/5d7bdab5e03e3216
+"""No Mercy""",38,Petr Yan,http://www.fightmetric.com/fighter-details/d661ce4da776fc20
+,39,Jin Soo Son,http://www.fightmetric.com/fighter-details/7c9c6a884be167fe
+"""Tiger""",40,Rustam Khabilov,http://www.fightmetric.com/fighter-details/9b7694d064a8a0ad
+"""Ragin'""",41,Kajan Johnson,http://www.fightmetric.com/fighter-details/633a45d131192ffe
+"""Beckan""",42,Mairbek Taisumov,http://www.fightmetric.com/fighter-details/8f5c8850b2484173
+"""The Predator""",43,Desmond Green,http://www.fightmetric.com/fighter-details/f046d724d2a84ac5
+,44,Magomed Ankalaev,http://www.fightmetric.com/fighter-details/d802174b0c0c1f4e
+,45,Marcin Prachnio,http://www.fightmetric.com/fighter-details/6370c1c1e12723d5
+"""Boroda""",46,Adam Yandiev,http://www.fightmetric.com/fighter-details/0a95c474e61a6c44
+,47,Jordan Johnson,http://www.fightmetric.com/fighter-details/99bcdf5eac39898f
+"""Gorets""",48,Ramazan Emeev,http://www.fightmetric.com/fighter-details/abd5fb12437eda21
+,49,Stefan Sekulic,http://www.fightmetric.com/fighter-details/348dff4e03bd18c6
+,50,Merab Dvalishvili,http://www.fightmetric.com/fighter-details/c03520b5c88ed6b4
+"""Flash""",51,Terrion Ware,http://www.fightmetric.com/fighter-details/ba5e253af86db1a8
+"""The Chosen One""",52,Tyron Woodley,http://www.fightmetric.com/fighter-details/effd9de9937996f8
+"""The Gorilla""",53,Darren Till,http://www.fightmetric.com/fighter-details/9ce6d5a03af801b7
+"""Bate Estaca""",54,Jessica Andrade,http://www.fightmetric.com/fighter-details/6a1901c62ab3870f
+,55,Karolina Kowalkiewicz,http://www.fightmetric.com/fighter-details/d7c3816669784109
+,56,Zabit Magomedsharipov,http://www.fightmetric.com/fighter-details/87aa9fb63d6b51a1
+"""Killer B""",57,Brandon Davis,http://www.fightmetric.com/fighter-details/cc351e408bbb7d43
+"""El Terror""",58,Jimmie Rivera,http://www.fightmetric.com/fighter-details/9c907996820d2d69
+"""The Magician""",59,John Dodson,http://www.fightmetric.com/fighter-details/99506df1af6c8b3b
+,60,Abdul Razak Alhassan,http://www.fightmetric.com/fighter-details/eae431e70064e046
+"""The Hybrid""",61,Niko Price,http://www.fightmetric.com/fighter-details/d8da10db80131bec
+"""Cookie Monster""",62,Carla Esparza,http://www.fightmetric.com/fighter-details/d910665038efc639
+,63,Tatiana Suarez,http://www.fightmetric.com/fighter-details/b08012bbe542592a
+"""Funk Master""",64,Aljamain Sterling,http://www.fightmetric.com/fighter-details/cb696ebfb6598724
+"""The Spartan""",65,Cody Stamann,http://www.fightmetric.com/fighter-details/bf7ad5628363eec9
+"""Handz of Steel""",66,Geoff Neal,http://www.fightmetric.com/fighter-details/b997be68943010fc
+"""The Crank""",67,Frank Camacho,http://www.fightmetric.com/fighter-details/764342d39cdaa54a
+"""Kid Dynamite""",68,Charles Byrd,http://www.fightmetric.com/fighter-details/76ee3d666c648f6b
+"""The Dentist""",69,Darren Stewart,http://www.fightmetric.com/fighter-details/a17ad5a5048e8c3f
+"""Nightmare""",70,Diego Sanchez,http://www.fightmetric.com/fighter-details/82e7929bf6c2b689
+"""The Thundercat""",71,Craig White,http://www.fightmetric.com/fighter-details/3dd949593346dbc3
+"""A-10""",72,Jim Miller,http://www.fightmetric.com/fighter-details/d1941565abf50b16
+"""The Spartan""",73,Alex White,http://www.fightmetric.com/fighter-details/c17041f1bb5768d8
+,74,Irene Aldana,http://www.fightmetric.com/fighter-details/578ef12674df1e6a
+"""Bullet""",75,Lucie Pudilova,http://www.fightmetric.com/fighter-details/3cf66c62d9069f43
+"""Littlefury""",76,Roberto Sanchez,http://www.fightmetric.com/fighter-details/546f8599a63c29da
+"""The Monkey God""",77,Jarred Brooks,http://www.fightmetric.com/fighter-details/81d9df19e255b8b6
+"""The Highlight""",78,Justin Gaethje,http://www.fightmetric.com/fighter-details/9e8f6c728eb01124
+"""The Texecutioner""",79,James Vick,http://www.fightmetric.com/fighter-details/6256b2b1562cb8e1
+"""The Menace""",80,Michael Johnson,http://www.fightmetric.com/fighter-details/511e82663651438d
+"""Touchy""",81,Andre Fili,http://www.fightmetric.com/fighter-details/8fd808923cffff82
+"""Cast Iron""",82,Cortney Casey,http://www.fightmetric.com/fighter-details/5f179af5fffeb9f6
+"""Overkill""",83,Angela Hill,http://www.fightmetric.com/fighter-details/f0feeb2192937424
+"""The Juggernaut""",84,Jake Ellenberger,http://www.fightmetric.com/fighter-details/d81ac739417d7f53
+"""Bam Bam""",85,Bryan Barberena,http://www.fightmetric.com/fighter-details/a331233f597090a5
+"""Chicano""",86,John Moraga,http://www.fightmetric.com/fighter-details/92437c6775b3f7d1
+"""Deus da Guerra""",87,Deiveson Figueiredo,http://www.fightmetric.com/fighter-details/aa72b0f831d0bfe5
+"""The South Jersey Strangler""",88,Tim Williams,http://www.fightmetric.com/fighter-details/990bd63726a577f8
+"""The""",89,James Krause,http://www.fightmetric.com/fighter-details/8f6a18831a120817
+,90,Warlley Alves,http://www.fightmetric.com/fighter-details/d317a5e2b3f88c5f
+,91,Cory Sandhagen,http://www.fightmetric.com/fighter-details/65f09bacd3957381
+"""Marajo""",92,Iuri Alcantara,http://www.fightmetric.com/fighter-details/2f95a3c6d58b2aad
+"""El Dirte""",93,Andrew Sanchez,http://www.fightmetric.com/fighter-details/fccf811c1e8b01c7
+"""Maluko""",94,Markus Perez,http://www.fightmetric.com/fighter-details/2ac4628c08ec5125
+,95,Mickey Gall,http://www.fightmetric.com/fighter-details/9e50097a89442158
+"""The Silencer""",96,George Sullivan,http://www.fightmetric.com/fighter-details/6c7e25571490aa3b
+"""JoJo""",97,Joanne Calderwood,http://www.fightmetric.com/fighter-details/12f91bfa8f1f723b
+,98,Kalindra Faria,http://www.fightmetric.com/fighter-details/27b164b0d1833df0
+,99,Drew Dober,http://www.fightmetric.com/fighter-details/519e4fe37ce9ff75
+"""Super Saiyan""",100,Jon Tuck,http://www.fightmetric.com/fighter-details/53ec9cb470e1a4ea
+,101,Rani Yahya,http://www.fightmetric.com/fighter-details/94527830000ab715
+"""Cool Hand""",102,Luke Sanders,http://www.fightmetric.com/fighter-details/96428b9e9bd048ea
+,103,TJ Dillashaw,http://www.fightmetric.com/fighter-details/c849740a3ff51931
+"""No Love""",104,Cody Garbrandt,http://www.fightmetric.com/fighter-details/d8c7c61b176e3994
+"""Mighty Mouse""",105,Demetrious Johnson,http://www.fightmetric.com/fighter-details/8a304bfd6bf04a57
+"""The Messenger""",106,Henry Cejudo,http://www.fightmetric.com/fighter-details/056c493bbd76a918
+,107,Cub Swanson,http://www.fightmetric.com/fighter-details/d247691a6c0e9034
+"""Moicano""",108,Renato Moicano,http://www.fightmetric.com/fighter-details/b6452706b373eea1
+"""Dama de Ferro""",109,Polyana Viana,http://www.fightmetric.com/fighter-details/9673a497a9da119a
+,110,JJ Aldrich,http://www.fightmetric.com/fighter-details/6fd953151d981979
+"""Trailblazer""",111,Kevin Holland,http://www.fightmetric.com/fighter-details/3a46b268013afede
+"""The Young Punisher""",112,Pedro Munhoz,http://www.fightmetric.com/fighter-details/6bd02119599741a4
+"""The Pikey""",113,Brett Johns,http://www.fightmetric.com/fighter-details/ec52462a1b41f714
+,114,Ricky Simon,http://www.fightmetric.com/fighter-details/5987b2458f4b5290
+"""Quik""",115,Montel Jackson,http://www.fightmetric.com/fighter-details/cc1a8b4b38b92c6d
+,116,Ricardo Ramos,http://www.fightmetric.com/fighter-details/1ae8f3c723aacff4
+"""Mr. Perfect""",117,Kyung Ho Kang,http://www.fightmetric.com/fighter-details/a7897d200692ab64
+"""Robo""",118,Matt Sayles,http://www.fightmetric.com/fighter-details/5b8ba8f5512893b1
+,119,Sheymon Moraes,http://www.fightmetric.com/fighter-details/0d62719b1dcf7c40
+,120,Alex Perez,http://www.fightmetric.com/fighter-details/ab2b4ff41d6ebe0f
+"""Shorty""",121,Jose Torres,http://www.fightmetric.com/fighter-details/d2036f31c035e0d1
+"""Dynamite""",122,Danielle Taylor,http://www.fightmetric.com/fighter-details/b76c6268dc1d3c05
+"""Magnum""",123,Weili Zhang,http://www.fightmetric.com/fighter-details/1ebe20ebbfa15e29
+"""Chito""",124,Marlon Vera,http://www.fightmetric.com/fighter-details/7c7332319c14094c
+"""Beast Master""",125,Wuliji Buren,http://www.fightmetric.com/fighter-details/2296125b6c362355
+"""The Underground King""",126,Eddie Alvarez,http://www.fightmetric.com/fighter-details/33a331684283900f
+"""The Diamond""",127,Dustin Poirier,http://www.fightmetric.com/fighter-details/029eaff01e6bb8f0
+"""Junior""",128,Jose Aldo,http://www.fightmetric.com/fighter-details/d0f3959b4a9747e6
+"""Lil' Heathen""",129,Jeremy Stephens,http://www.fightmetric.com/fighter-details/18968f97ad34f15c
+,130,Joanna Jedrzejczyk,http://www.fightmetric.com/fighter-details/3d6749c4267da18f
+"""The Tiny Tornado""",131,Tecia Torres,http://www.fightmetric.com/fighter-details/31ef8b67e13495b3
+"""The Great""",132,Alexander Hernandez,http://www.fightmetric.com/fighter-details/262a7d06203657e6
+"""The Canadian Gangster""",133,Olivier Aubin-Mercier,http://www.fightmetric.com/fighter-details/55ee431411ccf07a
+"""Young Gun""",134,Jordan Mein,http://www.fightmetric.com/fighter-details/2aa49b3766a59bcd
+"""The Great White""",135,Alex Morono,http://www.fightmetric.com/fighter-details/cdb96af67d096b1e
+"""Mean""",136,Hakeem Dawodu,http://www.fightmetric.com/fighter-details/2c9d00968f818270
+"""Golden Boy""",137,Austin Arnett,http://www.fightmetric.com/fighter-details/bf0e700106d00e55
+,138,Islam Makhachev,http://www.fightmetric.com/fighter-details/275aca31f61ba28c
+,139,Gadzhimurad Antigulov,http://www.fightmetric.com/fighter-details/af997f7611673880
+"""The Hulk""",140,Ion Cutelaba,http://www.fightmetric.com/fighter-details/cd13728ae1151f46
+"""The Bull""",141,John Makdessi,http://www.fightmetric.com/fighter-details/c21a036b4e012f1c
+"""The Real Deal""",142,Ross Pearson,http://www.fightmetric.com/fighter-details/4f732e58ed907eff
+,143,Alexis Davis,http://www.fightmetric.com/fighter-details/4c2d90e335e6df19
+"""Blonde Fighter""",144,Katlyn Chookagian,http://www.fightmetric.com/fighter-details/e872e9a9a902c045
+,145,Dustin Ortiz,http://www.fightmetric.com/fighter-details/f53c1f4ceeed8c08
+,146,Matheus Nicolau,http://www.fightmetric.com/fighter-details/1a31ef98efce7a79
+"""The Strina""",147,Nina Ansaroff,http://www.fightmetric.com/fighter-details/d343df8ba11f4c4e
+,148,Devin Powell,http://www.fightmetric.com/fighter-details/065eb44700e641a4
+"""Chango""",149,Alvaro Herrera,http://www.fightmetric.com/fighter-details/74d35fbc9c6a61bd
+"""Shogun""",150,Mauricio Rua,http://www.fightmetric.com/fighter-details/140745cbbcb023ac
+"""Lionheart""",151,Anthony Smith,http://www.fightmetric.com/fighter-details/d4c9dcd330403612
+,152,Glover Teixeira,http://www.fightmetric.com/fighter-details/7ff97850e8c32bda
+"""Overtime""",153,Corey Anderson,http://www.fightmetric.com/fighter-details/5e4eec08896c9423
+"""Lex Luthor""",154,Vitor Miranda,http://www.fightmetric.com/fighter-details/4bcb6eb12b4ad4aa
+"""Gladiator""",155,Abu Azaitar,http://www.fightmetric.com/fighter-details/46d0a888d87d91ac
+"""Tybur""",156,Marcin Tybura,http://www.fightmetric.com/fighter-details/c9cf753cfdf77fc2
+"""Skyscraper""",157,Stefan Struve,http://www.fightmetric.com/fighter-details/ebc1f40e00e0c481
+"""Hot Chocolate""",158,Danny Roberts,http://www.fightmetric.com/fighter-details/a6cba6bb66c1a8c9
+"""Sagat""",159,David Zawada,http://www.fightmetric.com/fighter-details/3bb2dc8e87b10a46
+,160,Nasrat Haqparast,http://www.fightmetric.com/fighter-details/b7b84ccd221be298
+"""Bonecrusher""",161,Marc Diakiese,http://www.fightmetric.com/fighter-details/32c355b04fc57f3a
+"""Sergeant""",162,Nick Hein,http://www.fightmetric.com/fighter-details/2816ced060a21be3
+"""The Bosnian Bomber""",163,Damir Hadzovic,http://www.fightmetric.com/fighter-details/38c626ca912c7bac
+"""Valhalla""",164,Emil Meek,http://www.fightmetric.com/fighter-details/103b06d8707895a9
+"""The Butcher""",165,Bartosz Fabinski,http://www.fightmetric.com/fighter-details/e17ac6410c8377f4
+"""The Warrior""",166,Khalid Taha,http://www.fightmetric.com/fighter-details/b4537562f88ac582
+"""Smiler""",167,Nad Narimani,http://www.fightmetric.com/fighter-details/776a58a67665a171
+"""El Blanco""",168,Justin Ledet,http://www.fightmetric.com/fighter-details/ba1e6cb3d43f7430
+,169,Aleksandar Rakic,http://www.fightmetric.com/fighter-details/333b9e5c723ac873
+"""Dangerous""",170,Davey Grant,http://www.fightmetric.com/fighter-details/113df4fde64735c6
+"""The Bermudez Triangle""",171,Manny Bermudez,http://www.fightmetric.com/fighter-details/2dc1bc1a02961656
+"""Grizzly""",172,Jeremy Kimball,http://www.fightmetric.com/fighter-details/917a5cb9821df261
+,173,Darko Stosic,http://www.fightmetric.com/fighter-details/025f0b1b58fbad01
+"""Webster""",174,Damian Stasiak,http://www.fightmetric.com/fighter-details/42a7e90605df3c8a
+,175,Liu Pingyuan,http://www.fightmetric.com/fighter-details/31bbd39c0a075d4e
+"""Cigano""",176,Junior Dos Santos,http://www.fightmetric.com/fighter-details/63def5a5662a6917
+"""Baga""",177,Blagoy Ivanov,http://www.fightmetric.com/fighter-details/1788eee370f077b7
+"""Super""",178,Sage Northcutt,http://www.fightmetric.com/fighter-details/ed9d8ee3a4239b1c
+"""The Barbarian""",179,Zak Ottow,http://www.fightmetric.com/fighter-details/47cd337b86b1af92
+"""The Menace""",180,Dennis Bermudez,http://www.fightmetric.com/fighter-details/6f242453c91a5af0
+"""The Gladiator""",181,Rick Glenn,http://www.fightmetric.com/fighter-details/814ff3018127e8fc
+"""Rudeboy""",182,Randy Brown,http://www.fightmetric.com/fighter-details/c6aee362c7a7d482
+"""Fury""",183,Myles Jury,http://www.fightmetric.com/fighter-details/08e908ed6d18d6a0
+"""Money""",184,Chad Mendes,http://www.fightmetric.com/fighter-details/b5b684eac99ae0a3
+"""Alpha""",185,Cat Zingano,http://www.fightmetric.com/fighter-details/3ecd936bd8814108
+"""The Belizean Bruiser""",186,Marion Reneau,http://www.fightmetric.com/fighter-details/c7d297714d9ab1a4
+,187,Eddie Wineland,http://www.fightmetric.com/fighter-details/fc9a9559a05f2704
+"""Turbo""",188,Alejandro Perez,http://www.fightmetric.com/fighter-details/80daefbed11ce998
+"""The Damage""",189,Darren Elkins,http://www.fightmetric.com/fighter-details/92a9aa9c93192871
+"""The Great""",190,Alexander Volkanovski,http://www.fightmetric.com/fighter-details/e1248941344b3288
+,191,Justin Scoggins,http://www.fightmetric.com/fighter-details/9fa568ad2bf2cb0b
+,192,Said Nurmagomedov,http://www.fightmetric.com/fighter-details/0fd5f4b838e890cc
+,193,Kurt Holobaugh,http://www.fightmetric.com/fighter-details/a7151778b3381036
+,194,Raoni Barcelos,http://www.fightmetric.com/fighter-details/b9f28e7045fdfce7
+"""Girlrilla""",195,Liz Carmouche,http://www.fightmetric.com/fighter-details/51a0c09cbe9b8472
+,196,Jennifer Maia,http://www.fightmetric.com/fighter-details/8e1f36476ef02a6a
+"""Bumblebee""",197,Mark De La Rosa,http://www.fightmetric.com/fighter-details/f57dd0bfa8c17813
+,198,Elias Garcia,http://www.fightmetric.com/fighter-details/ac5a7400da3a9a41
+"""Jag""",199,Jessica Aguilar,http://www.fightmetric.com/fighter-details/8f382b3baa954d2a
+,200,Jodie Esquibel,http://www.fightmetric.com/fighter-details/411539901068522f
+,201,Stipe Miocic,http://www.fightmetric.com/fighter-details/d28dee5c705991df
+"""DC""",202,Daniel Cormier,http://www.fightmetric.com/fighter-details/d967f0128c323de6
+"""The Predator""",203,Francis Ngannou,http://www.fightmetric.com/fighter-details/8d03ce87ca14e778
+"""The Black Beast""",204,Derrick Lewis,http://www.fightmetric.com/fighter-details/d3df1add9d9a7efb
+"""The Irish Dragon""",205,Paul Felder,http://www.fightmetric.com/fighter-details/e5010b1b94ca5755
+"""Platinum""",206,Mike Perry,http://www.fightmetric.com/fighter-details/f2b6fdb20675b11c
+"""Maverick""",207,Michael Chiesa,http://www.fightmetric.com/fighter-details/c58f51dedb310998
+"""Showtime""",208,Anthony Pettis,http://www.fightmetric.com/fighter-details/cbb682f5fcc44bfc
+"""The Rebel""",209,Gokhan Saki,http://www.fightmetric.com/fighter-details/4690d47bf725fd98
+"""The War Horse""",210,Khalil Rountree Jr.,http://www.fightmetric.com/fighter-details/749f572d1d3161fb
+"""Prime Time""",211,Uriah Hall,http://www.fightmetric.com/fighter-details/65578a75fa7900e3
+"""The Eraser""",212,Paulo Costa,http://www.fightmetric.com/fighter-details/2e5c2aa8e4ab9d82
+,213,Raphael Assuncao,http://www.fightmetric.com/fighter-details/2f13e4020cea5b38
+,214,Rob Font,http://www.fightmetric.com/fighter-details/05339613bf8e9808
+"""Groovy""",215,Lando Vannata,http://www.fightmetric.com/fighter-details/f9b200db02b488d9
+,216,Drakkar Klose,http://www.fightmetric.com/fighter-details/7cbf7c78d3b34218
+"""Curtious""",217,Curtis Millender,http://www.fightmetric.com/fighter-details/f1928a52590c5532
+"""Pain""",218,Max Griffin,http://www.fightmetric.com/fighter-details/b0d6a1d8ac3d563d
+"""The Hangman""",219,Dan Hooker,http://www.fightmetric.com/fighter-details/193b9d1858bc4df3
+"""Durinho""",220,Gilbert Burns,http://www.fightmetric.com/fighter-details/23024fdfc966410a
+,221,Jamie Moyle,http://www.fightmetric.com/fighter-details/882d62561063a927
+"""Spitfire""",222,Emily Whitmire,http://www.fightmetric.com/fighter-details/b3d21b2610dcfaeb
+,223,Brad Tavares,http://www.fightmetric.com/fighter-details/0c6d9ea8306c029e
+"""The Last Stylebender""",224,Israel Adesanya,http://www.fightmetric.com/fighter-details/1338e2c7480bdf9e
+"""The Lone Wolf""",225,Michael Trizano,http://www.fightmetric.com/fighter-details/5bf31a46becc1204
+"""Skeletor""",226,Joe Giannetti,http://www.fightmetric.com/fighter-details/946db8a378903cc3
+"""Mellow Fellow""",227,Jay Cucciniello,http://www.fightmetric.com/fighter-details/683ea28a198936fe
+"""Superman""",228,Brad Katona,http://www.fightmetric.com/fighter-details/7b433309b0fd12aa
+"""Bruce Leeroy""",229,Alex Caceres,http://www.fightmetric.com/fighter-details/7aa3d6964eff4877
+"""El Toro""",230,Martin Bravo,http://www.fightmetric.com/fighter-details/9c44f290f5726d95
+"""The Happy Warrior""",231,Roxanne Modafferi,http://www.fightmetric.com/fighter-details/4498b382c65a7faa
+"""Little Warrior""",232,Barb Honchak,http://www.fightmetric.com/fighter-details/472f6f6e6d962f40
+"""Manzo""",233,Alessio Di Chirico,http://www.fightmetric.com/fighter-details/77d7295d1b22c694
+"""The Cuban Missle Crisis""",234,Julian Marquez,http://www.fightmetric.com/fighter-details/d0e1b42d41dab603
+,235,Montana De La Rosa,http://www.fightmetric.com/fighter-details/80d8aed0ca9b00f3
+,236,Rachael Ostovich,http://www.fightmetric.com/fighter-details/01784fbc27c68b14
+"""Violent Bob Ross""",237,Luis Pena,http://www.fightmetric.com/fighter-details/2844b047183a1adb
+,238,Richie Smullen,http://www.fightmetric.com/fighter-details/f75c5ca0d91b9115
+"""The Machine""",239,John Gunther,http://www.fightmetric.com/fighter-details/3956bdc8ab2e54b3
+"""Tigre""",240,Allan Zuniga,http://www.fightmetric.com/fighter-details/523af801b3429015
+,241,Tyler Diamond,http://www.fightmetric.com/fighter-details/f5f6419c5f00abad
+"""Thug Nasty""",242,Bryce Mitchell,http://www.fightmetric.com/fighter-details/d9c6f19f958643e9
+"""The Mangler""",243,Matt Bessette,http://www.fightmetric.com/fighter-details/0b8d512c79b4baf3
+"""Ocho""",244,Steven Peterson,http://www.fightmetric.com/fighter-details/b93c06d09d1c4ac0
+"""GM3""",245,Gerald Meerschaert,http://www.fightmetric.com/fighter-details/6ac9bc2953c47345
+"""Imadlo""",246,Oskar Piechota,http://www.fightmetric.com/fighter-details/1cf7ccf64a5bf24e
+"""Cowboy""",247,Donald Cerrone,http://www.fightmetric.com/fighter-details/1d00756835ca67c9
+"""Rocky""",248,Leon Edwards,http://www.fightmetric.com/fighter-details/f1fac969a1d70b08
+,249,Ovince Saint Preux,http://www.fightmetric.com/fighter-details/50db8711c70196cd
+,250,Tyson Pedro,http://www.fightmetric.com/fighter-details/49e96ff8ab781589
+"""Jessy Jess""",251,Jessica-Rose Clark,http://www.fightmetric.com/fighter-details/6c8072b61c276e67
+"""Evil""",252,Jessica Eye,http://www.fightmetric.com/fighter-details/f72465a784c1b084
+"""The Leech""",253,Li Jingliang,http://www.fightmetric.com/fighter-details/e64b96c07d7ce999
+,254,Daichi Abe,http://www.fightmetric.com/fighter-details/5140122c3eecd307
+"""Yashabo""",255,Teruto Ishihara,http://www.fightmetric.com/fighter-details/88cd34d836b4ebcd
+"""Sertanejo""",256,Felipe Arantes,http://www.fightmetric.com/fighter-details/71002dbc1743b9a7
+"""The Terminator""",257,Song Yadong,http://www.fightmetric.com/fighter-details/efb96bf3e9ada36f
+"""Dy Incredible""",258,Rolando Dy,http://www.fightmetric.com/fighter-details/55ed59d541f8b90c
+"""Sugar""",259,Shane Young,http://www.fightmetric.com/fighter-details/4cd8b03aee1d0138
+"""The Assassin""",260,Song Kenan,http://www.fightmetric.com/fighter-details/32490e80ddab1e5a
+"""El Charro""",261,Hector Aldana,http://www.fightmetric.com/fighter-details/c487223b0289bda9
+"""Animal""",262,Shinsho Anzai,http://www.fightmetric.com/fighter-details/4665f9f909cd7214
+"""The Celtic Kid""",263,Jake Matthews,http://www.fightmetric.com/fighter-details/a845f0735bc67405
+"""Sucuri""",264,Viviane Pereira,http://www.fightmetric.com/fighter-details/d50382dc0565a9e1
+"""Nine""",265,Yan Xiaonan,http://www.fightmetric.com/fighter-details/c41d426cc7326d1b
+"""Danger""",266,Matt Schnell,http://www.fightmetric.com/fighter-details/67c1d46f4ed16f9e
+,267,Naoki Inoue,http://www.fightmetric.com/fighter-details/199eb7cf6ae90294
+"""The Demolition Man""",268,Jenel Lausa,http://www.fightmetric.com/fighter-details/ec664422b22d9787
+"""Ulka""",269,Ulka Sasaki,http://www.fightmetric.com/fighter-details/7c3c48cf54a2848e
+"""Firefist""",270,Ji Yeon Kim,http://www.fightmetric.com/fighter-details/a20f234df70f2182
+,271,Melinda Fabian,http://www.fightmetric.com/fighter-details/8c020156779f7888
+"""The Reaper""",272,Robert Whittaker,http://www.fightmetric.com/fighter-details/e1147d3d2dabe1ce
+"""Soldier of God""",273,Yoel Romero,http://www.fightmetric.com/fighter-details/f77c68bb4be8516d
+,274,Rafael Dos Anjos,http://www.fightmetric.com/fighter-details/6a2f7c151031653d
+"""Chaos""",275,Colby Covington,http://www.fightmetric.com/fighter-details/dc9572dd6ec74859
+"""The Preacher's Daughter""",276,Holly Holm,http://www.fightmetric.com/fighter-details/634e2fb70bde3fd5
+,277,Megan Anderson,http://www.fightmetric.com/fighter-details/a0e75f4a13eb73f1
+"""Bam Bam""",278,Tai Tuivasa,http://www.fightmetric.com/fighter-details/c62fbc117d57b943
+"""CM Punk""",279,CM Punk,http://www.fightmetric.com/fighter-details/a8c9d16fe2a14d72
+"""The Truth""",280,Mike Jackson,http://www.fightmetric.com/fighter-details/0641c21bec209472
+"""The Demolition Man""",281,Alistair Overeem,http://www.fightmetric.com/fighter-details/b4ad3a06ee4d660c
+"""Razor""",282,Curtis Blaydes,http://www.fightmetric.com/fighter-details/fa6796c55d6c5440
+"""Claudinha""",283,Claudia Gadelha,http://www.fightmetric.com/fighter-details/ec34349e7dffcde7
+"""The Bully""",284,Ricardo Lamas,http://www.fightmetric.com/fighter-details/3974fa35c917af1d
+,285,Mirsad Bektic,http://www.fightmetric.com/fighter-details/cbd3e590a85b18c5
+"""Daywalker""",286,Rashad Coulter,http://www.fightmetric.com/fighter-details/d1528ac5675558b1
+,287,Chris de la Rocha,http://www.fightmetric.com/fighter-details/e51ee8ded927fc51
+"""Suga""",288,Rashad Evans,http://www.fightmetric.com/fighter-details/ee779c43a8926d52
+,289,Joseph Benavidez,http://www.fightmetric.com/fighter-details/80eacd4da0617c57
+"""The Phenom""",290,Sergio Pettis,http://www.fightmetric.com/fighter-details/de75d1c45a39e221
+"""The Carpenter""",291,Clay Guida,http://www.fightmetric.com/fighter-details/c47df9303d318c67
+,292,Mike Santiago,http://www.fightmetric.com/fighter-details/bc656db347f31e19
+"""Dynamite""",293,Dan Ige,http://www.fightmetric.com/fighter-details/82a5152216251682
+"""Magic""",294,Marlon Moraes,http://www.fightmetric.com/fighter-details/fea79f9bc8c68769
+"""The Gift""",295,Gregor Gillespie,http://www.fightmetric.com/fighter-details/84ff027394f7e470
+"""From Hell""",296,Vinc Pichel,http://www.fightmetric.com/fighter-details/c77a953488e5607d
+"""The Big Ticket""",297,Walt Harris,http://www.fightmetric.com/fighter-details/03f982ca3735070c
+"""The Daddy Long Legs""",298,Daniel Spitz,http://www.fightmetric.com/fighter-details/f86cb5f25d545e0e
+,299,Julio Arce,http://www.fightmetric.com/fighter-details/1291edf2d566a71a
+"""Kid Dynamite""",300,Daniel Teymur,http://www.fightmetric.com/fighter-details/fbf0537e420e698e
+,301,Gian Villante,http://www.fightmetric.com/fighter-details/fcd448a2fe1a23cc
+"""Sarj""",302,Sijara Eubanks,http://www.fightmetric.com/fighter-details/4234f0097c83fa62
+"""Lucky""",303,Lauren Murphy,http://www.fightmetric.com/fighter-details/729d4bd5a6cd0a97
+"""The Carny""",304,Nik Lentz,http://www.fightmetric.com/fighter-details/6fb1ba67bef41b37
+,305,David Teymur,http://www.fightmetric.com/fighter-details/2747c60e42d9d75f
+"""Remember the Name""",306,Belal Muhammad,http://www.fightmetric.com/fighter-details/b1b0729d27936f2f
+"""Black Eagle""",307,Chance Rencountre,http://www.fightmetric.com/fighter-details/1ddb480b601cefb1
+,308,Gleison Tibau,http://www.fightmetric.com/fighter-details/75e5fec9f72910ef
+,309,Johnny Eduardo,http://www.fightmetric.com/fighter-details/528c24b99fbaab79
+"""The Prospect""",310,Nathaniel Wood,http://www.fightmetric.com/fighter-details/329e403448756217
+"""Wonderboy""",311,Stephen Thompson,http://www.fightmetric.com/fighter-details/4a28cb716c19157a
+,312,Neil Magny,http://www.fightmetric.com/fighter-details/84b3e7d38f2d2ec5
+"""Almighty""",313,Arnold Allen,http://www.fightmetric.com/fighter-details/040a74bb0a465c54
+,314,Mads Burnell,http://www.fightmetric.com/fighter-details/69f01b25dfabaf6b
+"""The Kid""",315,Jason Knight,http://www.fightmetric.com/fighter-details/bb1a2cdad6ff34db
+"""Mr. Finland""",316,Makwan Amirkhani,http://www.fightmetric.com/fighter-details/87a1dc546b1c5caf
+"""Hannibal""",317,Claudio Silva,http://www.fightmetric.com/fighter-details/6f7c616b98e18c29
+,318,Nordine Taleb,http://www.fightmetric.com/fighter-details/49858bf46dabf6fb
+"""Zebrinha""",319,Eric Spicely,http://www.fightmetric.com/fighter-details/b9664eae2ac75262
+,320,Daniel Kelly,http://www.fightmetric.com/fighter-details/bdcbb976816fd256
+,321,Tom Breese,http://www.fightmetric.com/fighter-details/1588b787bda7b540
+"""Elbow Queen""",322,Lina Lansberg,http://www.fightmetric.com/fighter-details/2eeaefbfc7f9fcff
+"""Danger""",323,Gina Mazany,http://www.fightmetric.com/fighter-details/016a8d958883167c
+"""Bear""",324,Bradley Scott,http://www.fightmetric.com/fighter-details/34e552520a934063
+"""Meatball""",325,Molly McCann,http://www.fightmetric.com/fighter-details/51018a31ddf31eb2
+"""The Spartan""",326,Elias Theodorou,http://www.fightmetric.com/fighter-details/34f88592c0ab7a54
+"""Hot Sauce""",327,Trevor Smith,http://www.fightmetric.com/fighter-details/f797f0c57a83353e
+,328,Demian Maia,http://www.fightmetric.com/fighter-details/427b5953ac8e3a27
+"""The Nigerian Nightmare""",329,Kamaru Usman,http://www.fightmetric.com/fighter-details/f1b2aa7853d1ed6e
+,330,Alexa Grasso,http://www.fightmetric.com/fighter-details/e8b731feff72294b
+"""The Killa Gorilla""",331,Jared Cannonier,http://www.fightmetric.com/fighter-details/13a0275fa13c4d26
+"""The Devastator""",332,Dominick Reyes,http://www.fightmetric.com/fighter-details/2e19380f34871c6a
+"""Pitbull""",333,Diego Rivas,http://www.fightmetric.com/fighter-details/09f579be4520394a
+"""Ninja""",334,Guido Cannetti,http://www.fightmetric.com/fighter-details/d05412b513b19621
+,335,Veronica Macedo,http://www.fightmetric.com/fighter-details/4798e823ada58fe9
+"""KGB""",336,Andrea Lee,http://www.fightmetric.com/fighter-details/05fa626cb33d15b8
+"""The Silent Assassin""",337,Vicente Luque,http://www.fightmetric.com/fighter-details/6d4b63c767106d3a
+"""The Disciple""",338,Chad Laprise,http://www.fightmetric.com/fighter-details/c03a5022f8439f2a
+,339,Zak Cummings,http://www.fightmetric.com/fighter-details/4ba8d454f762005d
+"""Tractor""",340,Michel Prazeres,http://www.fightmetric.com/fighter-details/e51fcd9cd84c0b93
+"""The Assassin Baby""",341,Brandon Moreno,http://www.fightmetric.com/fighter-details/792be9a24df82ed6
+"""The Cannibal""",342,Alexandre Pantoja,http://www.fightmetric.com/fighter-details/a0f0004aadf10b71
+,343,Poliana Botelho,http://www.fightmetric.com/fighter-details/5c126c6aac3ef364
+,344,Syuri Kondo,http://www.fightmetric.com/fighter-details/a851c35f58199231
+"""Moggly""",345,Gabriel Benitez,http://www.fightmetric.com/fighter-details/436f970c9ea9169c
+,346,Humberto Bandenay,http://www.fightmetric.com/fighter-details/2c2caf2f2bab9df5
+"""El Fuerte""",347,Enrique Barzola,http://www.fightmetric.com/fighter-details/be0b310a12eb80b4
+"""Bure""",348,Henry Briones,http://www.fightmetric.com/fighter-details/01fcef7e3d051722
+,349,Frankie Saenz,http://www.fightmetric.com/fighter-details/9ba2226646046b63
+"""El Nino""",350,Claudio Puelles,http://www.fightmetric.com/fighter-details/d747eb273a40a920
+,351,Felipe Silva,http://www.fightmetric.com/fighter-details/1b38a2b897f6209c
+"""Lioness""",352,Amanda Nunes,http://www.fightmetric.com/fighter-details/80fa8218c99f9c58
+"""Rocky""",353,Raquel Pennington,http://www.fightmetric.com/fighter-details/fc169c387b4b465d
+"""Jacare""",354,Jacare Souza,http://www.fightmetric.com/fighter-details/7a703c565ccaa18f
+,355,Kelvin Gastelum,http://www.fightmetric.com/fighter-details/8c0580d4fff106c1
+,356,Mackenzie Dern,http://www.fightmetric.com/fighter-details/7447e9f28508106a
+"""ABC""",357,Amanda Cooper,http://www.fightmetric.com/fighter-details/d4a31850a7457f1b
+"""Hands of Stone""",358,John Lineker,http://www.fightmetric.com/fighter-details/c268b2cfebccf652
+"""Boom""",359,Brian Kelleher,http://www.fightmetric.com/fighter-details/7be14eaed4c74856
+"""The Phenom""",360,Vitor Belfort,http://www.fightmetric.com/fighter-details/0ee783aa00e468f0
+"""The Dragon""",361,Lyoto Machida,http://www.fightmetric.com/fighter-details/f7a7f7118d4b01b6
+"""Mutante""",362,Cezar Ferreira,http://www.fightmetric.com/fighter-details/dbc17725b887860a
+"""Baby K""",363,Karl Roberson,http://www.fightmetric.com/fighter-details/37d5b176d438d2a5
+"""Baby""",364,Junior Albini,http://www.fightmetric.com/fighter-details/c482c8605455a213
+"""Tasmanian Devil""",365,Davi Ramos,http://www.fightmetric.com/fighter-details/0052de90691d4a93
+"""Tarzan""",366,Sean Strickland,http://www.fightmetric.com/fighter-details/0d8011111be000b2
+,367,Sultan Aliev,http://www.fightmetric.com/fighter-details/e70de1859b7ee78e
+"""The Joker""",368,Jack Hermansson,http://www.fightmetric.com/fighter-details/0a1942069c9ad6b6
+"""Soldier of God""",369,Alberto Mina,http://www.fightmetric.com/fighter-details/4b1d46a1b5c0fd11
+,370,James Bochnovic,http://www.fightmetric.com/fighter-details/984d15d5dc7bfcf9
+"""Junior""",371,Edson Barboza,http://www.fightmetric.com/fighter-details/64a50dad704d1d49
+"""The Motown Phenom""",372,Kevin Lee,http://www.fightmetric.com/fighter-details/ee9ebceabfd16fa7
+"""The Answer""",373,Frankie Edgar,http://www.fightmetric.com/fighter-details/f2688492b9a525a3
+"""Big Pretty""",374,Justin Willis,http://www.fightmetric.com/fighter-details/ce1e867808ef5fce
+,375,David Branch,http://www.fightmetric.com/fighter-details/d2c55d1d2e67773b
+,376,Ryan LaFlare,http://www.fightmetric.com/fighter-details/4c7781da8c6cae93
+"""The Dominican Nightmare""",377,Alex Garcia,http://www.fightmetric.com/fighter-details/a2b12c3f3d60ff69
+"""The Great""",378,Siyar Bahadurzada,http://www.fightmetric.com/fighter-details/aec185309b4843d0
+"""Tarzan""",379,Luan Chagas,http://www.fightmetric.com/fighter-details/9ccf8371fd80d45d
+"""Durkin""",380,Patrick Cummins,http://www.fightmetric.com/fighter-details/e51e5cb722bd47a8
+,381,Tony Martin,http://www.fightmetric.com/fighter-details/5331b25a60417ffb
+"""K-Taro""",382,Keita Nakamura,http://www.fightmetric.com/fighter-details/65ddc8a9ac4e8531
+"""The Natural Born Killer""",383,Carlos Condit,http://www.fightmetric.com/fighter-details/f9f07bb5a43535ed
+"""The Italian Dream""",384,Marvin Vettori,http://www.fightmetric.com/fighter-details/7acbb0972e75281a
+"""The Karate Hottie""",385,Michelle Waterson,http://www.fightmetric.com/fighter-details/eb04b9d31e938edb
+"""The Barbarian""",386,Tim Boetsch,http://www.fightmetric.com/fighter-details/c80095f6092271a7
+"""Cara de Sapato""",387,Antonio Carlos Junior,http://www.fightmetric.com/fighter-details/52e76bb4b3e852f3
+"""King of Kung Fu""",388,Muslim Salikhov,http://www.fightmetric.com/fighter-details/447f9858ae78f921
+"""The Sniper""",389,Ricky Rainey,http://www.fightmetric.com/fighter-details/9b1e3fb4f8cbd5b7
+,390,Wilson Reis,http://www.fightmetric.com/fighter-details/5aedf14771ca82d2
+,391,Krzysztof Jotko,http://www.fightmetric.com/fighter-details/4e06913c91da5200
+"""The Hitman""",392,Dan Moret,http://www.fightmetric.com/fighter-details/66e98b3bb5fc5250
+"""Danger""",393,Shana Dobson,http://www.fightmetric.com/fighter-details/122ac9b816d8b71c
+"""Princess Tiger""",394,Lauren Mueller,http://www.fightmetric.com/fighter-details/f923e012414c883e
+,395,Dhiego Lima,http://www.fightmetric.com/fighter-details/e9213f53ddeca978
+"""Thunder""",396,Yushin Okami,http://www.fightmetric.com/fighter-details/acff437707625fc7
+,397,Arjan Bhullar,http://www.fightmetric.com/fighter-details/7e511f8d842a109d
+"""Siwy""",398,Adam Wieczorek,http://www.fightmetric.com/fighter-details/efa1f6b42c86793c
+,399,Matthew Lopez,http://www.fightmetric.com/fighter-details/2fc7e9701642ca38
+"""The Animal""",400,Patrick Williams,http://www.fightmetric.com/fighter-details/39330403ad27c2bb
+"""The Eagle""",401,Khabib Nurmagomedov,http://www.fightmetric.com/fighter-details/032cc3922d871c7f
+"""Raging""",402,Al Iaquinta,http://www.fightmetric.com/fighter-details/59279a7c978f7da0
+"""Thug""",403,Rose Namajunas,http://www.fightmetric.com/fighter-details/47b63240018d5d86
+"""The Boston Finisher""",404,Calvin Kattar,http://www.fightmetric.com/fighter-details/751de04455cfaac0
+"""Crash""",405,Kyle Bochniak,http://www.fightmetric.com/fighter-details/c5af5750e8bae4f0
+"""J-Lau""",406,Joe Lauzon,http://www.fightmetric.com/fighter-details/3bad7ef643840f67
+"""Gritz""",407,Chris Gruetzemacher,http://www.fightmetric.com/fighter-details/feaf00f3373435d6
+"""Lil Bulldog""",408,Felice Herrig,http://www.fightmetric.com/fighter-details/b6850671a008bf9a
+"""Rowdy""",409,Bec Rawlings,http://www.fightmetric.com/fighter-details/907e60fd13407e1e
+"""Rebel Girl""",410,Ashlee Evans-Smith,http://www.fightmetric.com/fighter-details/fc6e681bf6658faf
+"""Brown Bear""",411,Devin Clark,http://www.fightmetric.com/fighter-details/cc7040fe76f0ef91
+"""Slo Mike""",412,Mike Rodriguez,http://www.fightmetric.com/fighter-details/18b602842a24f7c5
+"""Vai Cavalo""",413,Fabricio Werdum,http://www.fightmetric.com/fighter-details/492b202d2064e7a9
+"""Drago""",414,Alexander Volkov,http://www.fightmetric.com/fighter-details/279566840aa55bf2
+"""Poster Boy""",415,Jimi Manuwa,http://www.fightmetric.com/fighter-details/1e1dbd1cc5a7469e
+"""FireKid""",416,Tom Duquesnoy,http://www.fightmetric.com/fighter-details/e979c76341f19b22
+,417,Peter Sobotta,http://www.fightmetric.com/fighter-details/1fcfc3709fe58151
+"""The Welsh Wrecking Machine""",418,John Phillips,http://www.fightmetric.com/fighter-details/e9ac7bfb65c25497
+"""The Future""",419,Oliver Enkamp,http://www.fightmetric.com/fighter-details/330bafba312face4
+"""The Hatchet""",420,Danny Henry,http://www.fightmetric.com/fighter-details/f7d73e452b064bf2
+"""Bearjew""",421,Paul Craig,http://www.fightmetric.com/fighter-details/eabf206b162b3b83
+"""Braveheart""",422,Stevie Ray,http://www.fightmetric.com/fighter-details/31a13532e724ca2b
+"""The Hand Of""",423,Mark Godbeer,http://www.fightmetric.com/fighter-details/ad56b3f00ca38dfd
+"""Wicked Machine""",424,Dmitry Sosnovskiy,http://www.fightmetric.com/fighter-details/85ff1b9471d35238
+"""Cyborg""",425,Cris Cyborg,http://www.fightmetric.com/fighter-details/634bb0de2eb043b4
+"""Foxy""",426,Yana Kunitskaya,http://www.fightmetric.com/fighter-details/3143bf892608139a
+"""T-City""",427,Brian Ortega,http://www.fightmetric.com/fighter-details/def8166ff24bd237
+"""Sugar""",428,Sean O'Malley,http://www.fightmetric.com/fighter-details/b50a426a33da0012
+"""The Asian Sensation""",429,Andre Soukhamthath,http://www.fightmetric.com/fighter-details/d0e50a3d1b250708
+"""Fenomeno""",430,Ketlen Vieira,http://www.fightmetric.com/fighter-details/b9706f80d005036c
+"""Spider Monkey""",431,Ashley Yoder,http://www.fightmetric.com/fighter-details/b4c6c904a9ffc5e8
+,432,Beneil Dariush,http://www.fightmetric.com/fighter-details/08af939f41b5a57b
+"""Quicksand""",433,Mike Pyle,http://www.fightmetric.com/fighter-details/f5990c11974d8e9c
+"""Kid Lightning""",434,Bryan Caraway,http://www.fightmetric.com/fighter-details/5ef0088c1b19beeb
+"""The Prototype""",435,Adam Milstead,http://www.fightmetric.com/fighter-details/72ffecf712673af1
+,436,Josh Emmett,http://www.fightmetric.com/fighter-details/fba03cd6cc28dc41
+"""The Sledgehammer""",437,Ilir Latifi,http://www.fightmetric.com/fighter-details/e9a3aeb207578eea
+,438,Sara McMann,http://www.fightmetric.com/fighter-details/7be74a12d7352df2
+"""Iron Lady""",439,Maryna Moroz,http://www.fightmetric.com/fighter-details/b4192a975027aab6
+"""Brahma""",440,Alan Jouban,http://www.fightmetric.com/fighter-details/cf65d56b0755ed3b
+,441,Russell Doane,http://www.fightmetric.com/fighter-details/f50d95223751e6ca
+"""Showtime""",442,Eric Shelton,http://www.fightmetric.com/fighter-details/a0c64f272b65d441
+"""The Warrior""",443,Albert Morales,http://www.fightmetric.com/fighter-details/544d7460b3e44393
+"""The Kid""",444,Yancy Medeiros,http://www.fightmetric.com/fighter-details/813550bc53b15fb0
+"""GT""",445,Thibault Gouti,http://www.fightmetric.com/fighter-details/51e86de150ee8be6
+"""Flash""",446,Jared Gordon,http://www.fightmetric.com/fighter-details/7026eca45f65377b
+,447,Diego Ferreira,http://www.fightmetric.com/fighter-details/f53d4f21d1b5f2dc
+"""Mantis""",448,Brian Camozzi,http://www.fightmetric.com/fighter-details/1999ffb5cebc314f
+,449,Joby Sanchez,http://www.fightmetric.com/fighter-details/b12fc8a41e82d3a2
+"""Cheesecake""",450,Sarah Moras,http://www.fightmetric.com/fighter-details/539ed332b3078821
+"""The People's Warrior""",451,Joshua Burkman,http://www.fightmetric.com/fighter-details/6da99156486ed6c2
+,452,Luke Rockhold,http://www.fightmetric.com/fighter-details/00e11b5c8b7bfeeb
+"""Silverback""",453,Cyril Asker,http://www.fightmetric.com/fighter-details/9be6020024133293
+,454,Saparbeg Safarov,http://www.fightmetric.com/fighter-details/88d7b6d8230e1f3f
+"""Beatdown""",455,Damien Brown,http://www.fightmetric.com/fighter-details/d024ed963e8bf7ea
+"""Maestro""",456,Dong Hyun Kim,http://www.fightmetric.com/fighter-details/98a6b2361045898f
+"""Razor""",457,Rob Wilkinson,http://www.fightmetric.com/fighter-details/826475cc758e60e6
+"""JBC""",458,Jeremy Kennedy,http://www.fightmetric.com/fighter-details/68f6e96c5fa6e044
+"""Formiga""",459,Jussier Formiga,http://www.fightmetric.com/fighter-details/b102c26727306ab6
+"""Ten""",460,Ben Nguyen,http://www.fightmetric.com/fighter-details/840d2c82ea68b9aa
+"""Pugnus""",461,Mizuto Hirota,http://www.fightmetric.com/fighter-details/35faad160d346839
+"""Teco""",462,Jose Quinonez,http://www.fightmetric.com/fighter-details/36549928f90f1d36
+"""The Jedi""",463,Luke Jumeau,http://www.fightmetric.com/fighter-details/4c288a2b250bb576
+"""Bullet""",464,Valentina Shevchenko,http://www.fightmetric.com/fighter-details/132deb59abae64b1
+"""Pedrita""",465,Priscila Cachoeira,http://www.fightmetric.com/fighter-details/b1e5bcaad32a3cac
+,466,Tim Johnson,http://www.fightmetric.com/fighter-details/cc900af167fbedfd
+,467,Marcelo Golm,http://www.fightmetric.com/fighter-details/ac29d508d78384c9
+"""D Silva""",468,Douglas Silva de Andrade,http://www.fightmetric.com/fighter-details/3a314d9fa7c6825d
+"""The Dirty Bird""",469,Tim Means,http://www.fightmetric.com/fighter-details/4b47e71384a9522f
+"""Nuguette""",470,Alan Patrick,http://www.fightmetric.com/fighter-details/cd7763bcadb5d4c8
+,471,Maia Stevenson,http://www.fightmetric.com/fighter-details/2fee10d5cf86bfca
+"""One Bad Mofo""",472,Joe Soto,http://www.fightmetric.com/fighter-details/a4e85a58fbce64b2
+,473,Joseph Morales,http://www.fightmetric.com/fighter-details/2fe9032955c2e013
+,474,Derek Brunson,http://www.fightmetric.com/fighter-details/b1a3e0aca758b322
+"""All Day""",475,Jordan Rinaldi,http://www.fightmetric.com/fighter-details/c07efc18b231f170
+"""New Breed""",476,Erik Koch,http://www.fightmetric.com/fighter-details/99bd87a300079ed9
+"""King""",477,Bobby Green,http://www.fightmetric.com/fighter-details/887961364be5ceb3
+,478,Godofredo Pepey,http://www.fightmetric.com/fighter-details/fa37628269132d1a
+"""Kunoichici""",479,Mara Romero Borella,http://www.fightmetric.com/fighter-details/82cbb809d5ee565c
+"""Ju Thai""",480,Juliana Lima,http://www.fightmetric.com/fighter-details/75a6a390fd5dca46
+,481,Justine Kish,http://www.fightmetric.com/fighter-details/928ae2e5b5f7a9ec
+"""Netto BJJ""",482,Joaquim Silva,http://www.fightmetric.com/fighter-details/ae7fe94f117f98cf
+"""No Time""",483,Volkan Oezdemir,http://www.fightmetric.com/fighter-details/0845c81e37d3bcb3
+"""Hurricane""",484,Shane Burgos,http://www.fightmetric.com/fighter-details/98d961097baaf308
+"""Bodao""",485,Francimar Barroso,http://www.fightmetric.com/fighter-details/b69f24c500d783e7
+"""Thominhas""",486,Thomas Almeida,http://www.fightmetric.com/fighter-details/2b074403b7c6cdb4
+"""The Problem""",487,Sabah Homasi,http://www.fightmetric.com/fighter-details/71f048adbfed5b49
+"""The Korean Superboy""",488,Dooho Choi,http://www.fightmetric.com/fighter-details/e93b04e308913c2e
+"""12 Gauge""",489,Paige VanZant,http://www.fightmetric.com/fighter-details/4d5197f331c47290
+"""The Steamrolla""",490,Matt Frevola,http://www.fightmetric.com/fighter-details/dccb63727f2f5f74
+"""El Toro""",491,Polo Reyes,http://www.fightmetric.com/fighter-details/edd02825c29028fe
+,492,Talita Bernardo,http://www.fightmetric.com/fighter-details/5b2325cd70dbe2ea
+,493,Cynthia Calvillo,http://www.fightmetric.com/fighter-details/98215d037be5bcb7
+"""Lord""",494,Michal Oleksiejczuk,http://www.fightmetric.com/fighter-details/0d65c432720accb9
+"""Wolverine""",495,Omari Akhmedov,http://www.fightmetric.com/fighter-details/16690d100f995f8f
+"""Da Last Samurai""",496,Louis Smolka,http://www.fightmetric.com/fighter-details/d2bc285ead803db0
+,497,Tim Elliott,http://www.fightmetric.com/fighter-details/c96d9178c9ed9e62
+"""Ruthless""",498,Robbie Lawler,http://www.fightmetric.com/fighter-details/f2925e6db404bf1d
+"""Gente Boa""",499,Santiago Ponzinibbio,http://www.fightmetric.com/fighter-details/6d1bffff14897645
+,500,Misha Cirkunov,http://www.fightmetric.com/fighter-details/67f272324a030d00
+,501,Galore Bofando,http://www.fightmetric.com/fighter-details/8a56ea383fd26e52
+"""Killa""",502,Abel Trujillo,http://www.fightmetric.com/fighter-details/e14b5aa06eea9653
+"""Holy War Angel""",503,Oluwale Bamgbose,http://www.fightmetric.com/fighter-details/04b39f4e8eb59d7c
+"""The Tiger""",504,Erick Silva,http://www.fightmetric.com/fighter-details/5866fc86183a9fb8
+"""Hot Sauce""",505,Scott Holtzman,http://www.fightmetric.com/fighter-details/df1eb4354d18a906
+"""The Saint""",506,Darrell Horcher,http://www.fightmetric.com/fighter-details/18e8b7070228e728
+"""Golden Boy""",507,Benito Lopez,http://www.fightmetric.com/fighter-details/773f7feacf96153e
+"""CJ""",508,Carls John De Tomas,http://www.fightmetric.com/fighter-details/2a4200ead401a9ce
+,509,Antonio Braga Neto,http://www.fightmetric.com/fighter-details/fae67903c4fe636b
+,510,Trevin Giles,http://www.fightmetric.com/fighter-details/b27a1fcb56a3035a
+"""Blessed""",511,Max Holloway,http://www.fightmetric.com/fighter-details/150ff4cc642270b9
+"""Your Majesty""",512,Angela Magana,http://www.fightmetric.com/fighter-details/bd878a638e0e3be3
+"""Pretty Boy""",513,Allen Crowder,http://www.fightmetric.com/fighter-details/a9d6e047ce48ab63
+,514,Nicco Montano,http://www.fightmetric.com/fighter-details/1de9ad94de18eeaf
+"""Vitamin D""",515,DeAnna Bennett,http://www.fightmetric.com/fighter-details/404ecb2700844072
+,516,Christina Marks,http://www.fightmetric.com/fighter-details/c7be22a47a58365a
+,517,Ryan Janes,http://www.fightmetric.com/fighter-details/b59037262c8fe060
+"""The Princess""",518,Karine Gevorgyan,http://www.fightmetric.com/fighter-details/2db0c114414d4f06
+"""Sunshine""",519,Ariel Beck,http://www.fightmetric.com/fighter-details/b96939f2b8d88e82
+"""The Count""",520,Michael Bisping,http://www.fightmetric.com/fighter-details/2b93ebd9f5417ad2
+"""The Dongbei Tiger""",521,Wang Guan,http://www.fightmetric.com/fighter-details/dd12382f28296f7b
+"""Nashty""",522,Bobby Nash,http://www.fightmetric.com/fighter-details/7dfb56f24fe5ddea
+,523,Kailin Curran,http://www.fightmetric.com/fighter-details/05b43e0ead3df345
+"""Daring""",524,Bharat Kandare,http://www.fightmetric.com/fighter-details/efd2b3e9bb7965a4
+"""Mulan""",525,Wu Yanan,http://www.fightmetric.com/fighter-details/fdbefee0827e1567
+"""Bad Boy""",526,Hu Yaozong,http://www.fightmetric.com/fighter-details/f1175ea3aafbf351
+"""Serbian Steel""",527,Bojan Velickovic,http://www.fightmetric.com/fighter-details/fcce75a25c14a804
+"""Baby Face""",528,Ryan Benoit,http://www.fightmetric.com/fighter-details/20999e27ddd94bda
+"""The Assassin""",529,Ashkan Mokhtarian,http://www.fightmetric.com/fighter-details/e9bc5748e6a76bb6
+"""Ill""",530,Will Brooks,http://www.fightmetric.com/fighter-details/b6e6c3b1dcaae0a1
+"""187""",531,Nadia Kassem,http://www.fightmetric.com/fighter-details/6e7506127408aa9e
+"""Freight Train""",532,Anthony Hamilton,http://www.fightmetric.com/fighter-details/c727c7d31c50c4cf
+"""The Immortal""",533,Matt Brown,http://www.fightmetric.com/fighter-details/31123249b0bbf52e
+"""The Great""",534,Nate Marquardt,http://www.fightmetric.com/fighter-details/a8e6a69796280f17
+"""El Capo""",535,Michel Quinones,http://www.fightmetric.com/fighter-details/5e84a859c6a82288
+"""The Crusher""",536,Court McGee,http://www.fightmetric.com/fighter-details/523fa774700d7d3f
+"""The Prototype""",537,Jake Collier,http://www.fightmetric.com/fighter-details/92fa1401b7927da3
+"""Maozinha""",538,Marcel Fortuna,http://www.fightmetric.com/fighter-details/d761b3766e38c5db
+"""Rush""",539,Georges St-Pierre,http://www.fightmetric.com/fighter-details/6506c1d34da9c013
+"""Gamebred""",540,Jorge Masvidal,http://www.fightmetric.com/fighter-details/47b9e0e7703a4868
+"""Bigg Rigg""",541,Johny Hendricks,http://www.fightmetric.com/fighter-details/0941df56f6ac954b
+"""Irish""",542,Joe Duffy,http://www.fightmetric.com/fighter-details/654ae722109a0d31
+,543,Aiemann Zahabi,http://www.fightmetric.com/fighter-details/24656ef4d605c96f
+"""The Hammer""",544,Jack Marshman,http://www.fightmetric.com/fighter-details/045f25b3a4c08e81
+"""Barnabe""",545,Hacran Dias,http://www.fightmetric.com/fighter-details/ed209f6618c82e41
+"""Godzilla""",546,Christian Colombo,http://www.fightmetric.com/fighter-details/9123c54d0a2b72dd
+"""Johnny Bravo""",547,Jonathan Wilson,http://www.fightmetric.com/fighter-details/cd01f0b768a32475
+,548,Marcin Held,http://www.fightmetric.com/fighter-details/bf43fed8f29e1671
+"""The Russian Hammer""",549,Artem Lobov,http://www.fightmetric.com/fighter-details/02f2a9702ba3d167
+"""Grizzly""",550,Salim Touahri,http://www.fightmetric.com/fighter-details/cbf1c7ba5408a66f
+,551,Aspen Ladd,http://www.fightmetric.com/fighter-details/d4691518d012b9e7
+"""El Cucuy""",552,Tony Ferguson,http://www.fightmetric.com/fighter-details/22a92d7f62195791
+"""The Tazmexican Devil""",553,Ray Borg,http://www.fightmetric.com/fighter-details/a4de54ea806fb525
+,554,Pearl Gonzalez,http://www.fightmetric.com/fighter-details/1ebdcb7488d0ebee
+"""Psycho""",555,Marco Beltran,http://www.fightmetric.com/fighter-details/ec71a892fada28c7
+"""Chaborz""",556,Magomed Bibulatov,http://www.fightmetric.com/fighter-details/87f19d19f4cb73f8
+"""The Fireball Kid""",557,Takanori Gomi,http://www.fightmetric.com/fighter-details/3be081c29bf734d9
+"""Frankenstein""",558,Henrique da Silva,http://www.fightmetric.com/fighter-details/b0bd0c5425668b8f
+"""Ottogi Girl""",559,Chanmi Jeon,http://www.fightmetric.com/fighter-details/24174a3f44ce8e03
+"""The Ace""",560,Hyun Gyu Lim,http://www.fightmetric.com/fighter-details/203c957eac95dd87
+"""The Executioner""",561,Alex Reyes,http://www.fightmetric.com/fighter-details/dc07493a87dc0a6e
+"""Nicoya""",562,Jason Gonzalez,http://www.fightmetric.com/fighter-details/e45cfa47f504033a
+"""8th Wonder""",563,Zu Anyanwu,http://www.fightmetric.com/fighter-details/78d48d3874dacafd
+,564,Jason Saggo,http://www.fightmetric.com/fighter-details/4ac1ecf8ce59ef23
+"""El Nino""",565,Gilbert Melendez,http://www.fightmetric.com/fighter-details/aa5b4eff51bdc7d1
+"""Guv'Nor""",566,Gavin Tucker,http://www.fightmetric.com/fighter-details/da816417a579a0bd
+"""Danger Zone""",567,Mitch Clarke,http://www.fightmetric.com/fighter-details/c76ec2bc3a57666a
+,568,Adriano Martins,http://www.fightmetric.com/fighter-details/7dcf06c1967801c1
+,569,Bojan Mihajlovic,http://www.fightmetric.com/fighter-details/d6285cba1d1052e0
+,570,Abdul-Kerim Edilov,http://www.fightmetric.com/fighter-details/37e03538c960bac6
+,571,Andrew Holbrook,http://www.fightmetric.com/fighter-details/66ab58d0b3783607
+"""Kid Alex""",572,Hector Sandoval,http://www.fightmetric.com/fighter-details/449c890bd90f3374
+"""Bones""",573,Jon Jones,http://www.fightmetric.com/fighter-details/07f72a2a7591b409
+"""Triple Threat""",574,Tonya Evinger,http://www.fightmetric.com/fighter-details/b12a1d19ee383b7c
+"""Stitch""",575,Alexandra Albu,http://www.fightmetric.com/fighter-details/e76d9f656ceb82ab
+"""The All-American""",576,Chris Weidman,http://www.fightmetric.com/fighter-details/3a8176e15b9887c1
+"""Cyborg""",577,Lyman Good,http://www.fightmetric.com/fighter-details/4e0692ad070976e4
+"""Sapo""",578,Rafael Natal,http://www.fightmetric.com/fighter-details/0dba4df5f34d5ff0
+"""The Polish Pitbull""",579,Damian Grabowski,http://www.fightmetric.com/fighter-details/3f11b5d4bd76a6d9
+,580,Frankie Perez,http://www.fightmetric.com/fighter-details/96c336b463e0662c
+,581,Chris Wade,http://www.fightmetric.com/fighter-details/c8097968da5e5f13
+"""Gunni""",582,Gunnar Nelson,http://www.fightmetric.com/fighter-details/fd55393021a8c255
+"""The Juggernaut""",583,James Mulheron,http://www.fightmetric.com/fighter-details/8d5350fa18b79e9a
+"""2Tap""",584,Neil Seery,http://www.fightmetric.com/fighter-details/49a74b9fb2e45fdf
+"""Relentless""",585,Charlie Ward,http://www.fightmetric.com/fighter-details/e81dd0bb8a64b550
+"""The Peacemaker""",586,Leslie Smith,http://www.fightmetric.com/fighter-details/76984112f697631f
+"""Amandinha""",587,Amanda Lemos,http://www.fightmetric.com/fighter-details/3df5493bb279226f
+,588,Daniel Omielanczuk,http://www.fightmetric.com/fighter-details/470fedbc8563ac47
+"""Hapa""",589,Travis Browne,http://www.fightmetric.com/fighter-details/3236bf606fe9fa5b
+"""JT Money""",590,Jesse Taylor,http://www.fightmetric.com/fighter-details/dd992d569aaebee6
+,591,Nick Roehrick,http://www.fightmetric.com/fighter-details/7195e2a932686f82
+"""Da Tank""",592,Tom Gallicchio,http://www.fightmetric.com/fighter-details/cc81c92fe2254935
+"""Short Fuse""",593,Ed Herman,http://www.fightmetric.com/fighter-details/06f36cf4bd97ec77
+,594,Gray Maynard,http://www.fightmetric.com/fighter-details/7d96bc577e5178b2
+,595,Joachim Christensen,http://www.fightmetric.com/fighter-details/2d447cc91bdaa545
+"""The Prodigy""",596,BJ Penn,http://www.fightmetric.com/fighter-details/73c7cfa551289285
+,597,Dennis Siver,http://www.fightmetric.com/fighter-details/5f87a5c00b3d17ed
+"""Hollywood""",598,Johnny Case,http://www.fightmetric.com/fighter-details/1f4b04a926ef1287
+"""The Sandman""",599,Josh Stansbury,http://www.fightmetric.com/fighter-details/30ea504870f8597b
+"""Pitbull""",600,Bethe Correia,http://www.fightmetric.com/fighter-details/673ea7dcc786b1b3
+"""Stun Gun""",601,Dong Hyun Kim,http://www.fightmetric.com/fighter-details/9bcf8603ceb25680
+"""Sponge""",602,Tarec Saffiedine,http://www.fightmetric.com/fighter-details/0749d968e932df53
+,603,Kwan Ho Kwak,http://www.fightmetric.com/fighter-details/c13042265355a290
+"""Non-Stop Action-Packed""",604,Dominique Steele,http://www.fightmetric.com/fighter-details/68c11c27d4d56572
+"""Strasser""",605,Kiichi Kunimoto,http://www.fightmetric.com/fighter-details/71df36d6d8cf0d74
+"""Judo""",606,Jimmy Wallhead,http://www.fightmetric.com/fighter-details/0c670b443c3d269f
+"""The Mauler""",607,Alexander Gustafsson,http://www.fightmetric.com/fighter-details/3c6976f8182d9527
+"""The Spartan""",608,Alex Nicholson,http://www.fightmetric.com/fighter-details/2b6d855c6e280fb1
+,609,Chris Camozzi,http://www.fightmetric.com/fighter-details/6c2030e0a143a94b
+"""Mad Dog""",610,Reza Madadi,http://www.fightmetric.com/fighter-details/e25bcbcdaf6537a1
+"""Nico""",611,Nico Musoke,http://www.fightmetric.com/fighter-details/8b5f9ea38184ded3
+"""Abacus""",612,Jessin Ayari,http://www.fightmetric.com/fighter-details/6eaec40f724852f4
+"""El Pantera""",613,Yair Rodriguez,http://www.fightmetric.com/fighter-details/cbf5e6f231b55443
+"""The Scrapper""",614,Chas Skelly,http://www.fightmetric.com/fighter-details/4bd6b4800070b069
+"""Pezao""",615,Marcos Rogerio de Lima,http://www.fightmetric.com/fighter-details/ab943cd2c3c17825
+,616,Michael McBride,http://www.fightmetric.com/fighter-details/443f60bec7c3c3d5
+,617,Jessica Penne,http://www.fightmetric.com/fighter-details/c742287ed86a09bc
+"""Battle Cat""",618,Cindy Dandois,http://www.fightmetric.com/fighter-details/9eef6584fab21fbb
+,619,Joe Proctor,http://www.fightmetric.com/fighter-details/a36556bb1565e32d
+"""Big Country""",620,Roy Nelson,http://www.fightmetric.com/fighter-details/3f7c14c7eca7195d
+"""Goretz""",621,Rashid Magomedov,http://www.fightmetric.com/fighter-details/7ea1f74cef32f906
+"""Tanquinho""",622,Augusto Mendes,http://www.fightmetric.com/fighter-details/3d5b1ce6097dbb49
+"""Soulforce""",623,Nathan Coy,http://www.fightmetric.com/fighter-details/15ec018d144710db
+"""Rumble""",624,Anthony Johnson,http://www.fightmetric.com/fighter-details/365fee2da473b177
+,625,Gegard Mousasi,http://www.fightmetric.com/fighter-details/232c582f29f8f65e
+"""The Predator""",626,Patrick Cote,http://www.fightmetric.com/fighter-details/9fa3bd637edd9aa2
+"""El Cucuy""",627,Mike de la Torre,http://www.fightmetric.com/fighter-details/1971869b7e054261
+"""Boston Strong""",628,Charles Rosa,http://www.fightmetric.com/fighter-details/40093d1d2d78394e
+"""One Punch""",629,Brad Pickett,http://www.fightmetric.com/fighter-details/c945adc22c2bfe8f
+"""Pacu""",630,Teemu Packalen,http://www.fightmetric.com/fighter-details/8f4eeaf7a0df7c1a
+,631,Scott Askham,http://www.fightmetric.com/fighter-details/06827d70c53ff0d9
+,632,Rony Jason,http://www.fightmetric.com/fighter-details/b71ce838b01f2cad
+"""Soldier Boy""",633,Garreth McLellan,http://www.fightmetric.com/fighter-details/f215cfbd4ba3c270
+,634,Sam Sicilia,http://www.fightmetric.com/fighter-details/b8aef0faf4ce9b31
+,635,Alessandro Ricci,http://www.fightmetric.com/fighter-details/bf9bc96336922271
+,636,Reginaldo Vieira,http://www.fightmetric.com/fighter-details/f9081770e28ea2e1
+"""The Iron Lady""",637,Germaine de Randamie,http://www.fightmetric.com/fighter-details/1d239d571e342453
+"""The Spider""",638,Anderson Silva,http://www.fightmetric.com/fighter-details/1f454354805b6f75
+"""The Filipino Assassin""",639,Phillipe Nover,http://www.fightmetric.com/fighter-details/64360e618823a8e4
+"""Jucao""",640,Roan Carneiro,http://www.fightmetric.com/fighter-details/1c86754617d9813a
+"""The Korean Zombie""",641,Chan Sung Jung,http://www.fightmetric.com/fighter-details/c451d67c09c55418
+,642,Michinori Tanaka,http://www.fightmetric.com/fighter-details/64788ee44b062ded
+"""The Werewolf of Texas""",643,Daniel Jolly,http://www.fightmetric.com/fighter-details/eeabcd4dc6619129
+"""The Venezuelan Vixen""",644,Julianna Pena,http://www.fightmetric.com/fighter-details/3253b16d38ae087d
+"""Superstar""",645,JC Cottrell,http://www.fightmetric.com/fighter-details/3ec1e4ba98c9c85a
+,646,Viktor Pesta,http://www.fightmetric.com/fighter-details/202b0467521c9d6f
+,647,Jocelyn Jones-Lybarger,http://www.fightmetric.com/fighter-details/1a98c9dbb7fc3959
+"""The Lifeguard""",648,Dmitrii Smoliakov,http://www.fightmetric.com/fighter-details/75afb06215a07341
+"""Rowdy""",649,Ronda Rousey,http://www.fightmetric.com/fighter-details/8bdac25ce0bb874d
+"""The Dominator""",650,Dominick Cruz,http://www.fightmetric.com/fighter-details/10f3ba6cd2f44a97
+"""Rukus""",651,Brandon Thatch,http://www.fightmetric.com/fighter-details/638cfec7ec559d6e
+"""The California Kid""",652,Urijah Faber,http://www.fightmetric.com/fighter-details/78114b7199cef90c
+"""Magrinho""",653,Cole Miller,http://www.fightmetric.com/fighter-details/282fa667ff9c51ed
+"""Moon Walker""",654,James Moontasri,http://www.fightmetric.com/fighter-details/c06a9b48d4132c8e
+,655,Takeya Mizugaki,http://www.fightmetric.com/fighter-details/48e093ea1f43a053
+"""El Profe""",656,Fredy Serrano,http://www.fightmetric.com/fighter-details/0ccab7c889ede9ea
+,657,Tim Kennedy,http://www.fightmetric.com/fighter-details/3c660c90d48fc80d
+"""Trouble""",658,Valerie Letourneau,http://www.fightmetric.com/fighter-details/46a2f24feb258ae0
+,659,Mitch Gagnon,http://www.fightmetric.com/fighter-details/b8592b4a383696cd
+"""Fun Size""",660,Zach Makovsky,http://www.fightmetric.com/fighter-details/57ab4d7c0bc09a30
+"""The Real OC""",661,Sean O'Connell,http://www.fightmetric.com/fighter-details/cb52f9490c2dc069
+"""Capo""",662,Joe Gigliotti,http://www.fightmetric.com/fighter-details/83825fad27ab3581
+"""Trator""",663,Tiago Trator,http://www.fightmetric.com/fighter-details/8ce87f7e3a9baed2
+"""Sha Bang Bang""",664,Keith Berish,http://www.fightmetric.com/fighter-details/e3779ef06e98f185
+"""The Wizard""",665,Ryan Hall,http://www.fightmetric.com/fighter-details/8866c6f509c19089
+"""Badger""",666,Brendan O'Reilly,http://www.fightmetric.com/fighter-details/494b0bfdbac74502
+"""The King""",667,Elvis Mutapcic,http://www.fightmetric.com/fighter-details/28c55b4087a6f136
+,668,Kyle Noke,http://www.fightmetric.com/fighter-details/7339d340aa2889cb
+,669,Yusuke Kasuya,http://www.fightmetric.com/fighter-details/3058888c33149a53
+,670,Seohee Ham,http://www.fightmetric.com/fighter-details/165c244bcca3ed26
+"""Filthy Rich""",671,Richard Walsh,http://www.fightmetric.com/fighter-details/303a05a7aa3ff761
+"""The French Spider""",672,Jonathan Meunier,http://www.fightmetric.com/fighter-details/5823ceab56741617
+"""The Revolutionary""",673,Geane Herrera,http://www.fightmetric.com/fighter-details/c169545ab0825f44
+"""Smasher""",674,Ning Guangyou,http://www.fightmetric.com/fighter-details/2c1170b825f58e57
+"""The Conqueror""",675,Yao Zhikui,http://www.fightmetric.com/fighter-details/5ea918ea81b7dee2
+"""Darth""",676,Ryan Bader,http://www.fightmetric.com/fighter-details/c0ab242c40decc55
+"""The Anvil""",677,Manvel Gamburyan,http://www.fightmetric.com/fighter-details/cc6f9d1e89f3449a
+"""Jycken""",678,Magnus Cedenblad,http://www.fightmetric.com/fighter-details/0e21976afc92e4d1
+,679,Kyoji Horiguchi,http://www.fightmetric.com/fighter-details/98aa60cf58071fd6
+"""Puncher""",680,Ali Bagautinov,http://www.fightmetric.com/fighter-details/3dd92ff9fb0412b3
+,681,Magomed Mustafaev,http://www.fightmetric.com/fighter-details/31d7446b184e3305
+"""Panda""",682,Anna Elmose,http://www.fightmetric.com/fighter-details/1536a25e16fc299b
+"""Thunder of the North""",683,Alexander Yakovlev,http://www.fightmetric.com/fighter-details/d06f8869449ba7bd
+,684,Milana Dudieva,http://www.fightmetric.com/fighter-details/072a10e85f7d4bff
+"""The Notorious""",685,Conor McGregor,http://www.fightmetric.com/fighter-details/f4c49976c75c5ab2
+"""Cupcake""",686,Miesha Tate,http://www.fightmetric.com/fighter-details/b96619b3acd7d9da
+"""Hurricane""",687,Heather Jo Clark,http://www.fightmetric.com/fighter-details/dd4c16777fb2ccf9
+"""Goyito""",688,Erik Perez,http://www.fightmetric.com/fighter-details/af62f99eb7606308
+"""Perry""",689,Erick Montano,http://www.fightmetric.com/fighter-details/8163cd7de0342652
+"""Pepsi""",690,Jason Novelli,http://www.fightmetric.com/fighter-details/459e4dc69ec669b2
+,691,Chris Avila,http://www.fightmetric.com/fighter-details/4665cbf36b08193b
+"""Hendo""",692,Dan Henderson,http://www.fightmetric.com/fighter-details/1ccf4e7caff270df
+"""Einstein""",693,Albert Tumenov,http://www.fightmetric.com/fighter-details/ff6a1f63c254127e
+"""Wookie""",694,Lukasz Sajewski,http://www.fightmetric.com/fighter-details/fb41432b622992a9
+"""Nenhum""",695,Leonardo Santos,http://www.fightmetric.com/fighter-details/9c65736747ca92ec
+"""The Barncat""",696,Tamdan McCrory,http://www.fightmetric.com/fighter-details/eff47295daf721a6
+"""The Freight Train""",697,Cody East,http://www.fightmetric.com/fighter-details/5713c1d2fac539ac
+,698,Kelly Faszholz,http://www.fightmetric.com/fighter-details/9c42a0de8e012870
+"""Bigfoot""",699,Antonio Silva,http://www.fightmetric.com/fighter-details/8349d55cdecd393a
+"""El Toro""",700,Hector Urbina,http://www.fightmetric.com/fighter-details/4b8fb0453a596b8e
+"""Nego""",701,Glaico Franca,http://www.fightmetric.com/fighter-details/00a3ff40c4b2cf21
+,702,Kenny Robertson,http://www.fightmetric.com/fighter-details/6e0273f9478be71e
+"""Maxi""",703,Maximo Blanco,http://www.fightmetric.com/fighter-details/4a1329cc8eb0928a
+"""Dodger""",704,Augusto Montano,http://www.fightmetric.com/fighter-details/94508d80e1f885fc
+"""Leleco""",705,Leonardo Augusto Leleco,http://www.fightmetric.com/fighter-details/cc98d857b148e33a
+,706,Joey Gomez,http://www.fightmetric.com/fighter-details/0778f94eb5d588a5
+"""Hellboy""",707,Caio Magalhaes,http://www.fightmetric.com/fighter-details/0c5c66ddd1886b83
+"""Black Magic""",708,Sean Spencer,http://www.fightmetric.com/fighter-details/ab850a77a0fa487d
+"""The Warmaster""",709,Josh Barnett,http://www.fightmetric.com/fighter-details/ad3f53c454cbbead
+"""The Korean Cowboy""",710,Tae Hyun Bang,http://www.fightmetric.com/fighter-details/9a2d3567abc02e34
+"""Sharpshooter""",711,Nicolas Dalby,http://www.fightmetric.com/fighter-details/9d19d9e4aa2662e8
+"""Double Impact""",712,Taylor Lapilus,http://www.fightmetric.com/fighter-details/8b1ed83b02303075
+"""Brodinho""",713,Leandro Issa,http://www.fightmetric.com/fighter-details/d1e1fdcea7c8a90a
+"""Man Mountain""",714,Jarjis Danho,http://www.fightmetric.com/fighter-details/8614b7134913f5d5
+"""Buscape""",715,Leandro Silva,http://www.fightmetric.com/fighter-details/159da492e000afbf
+"""King""",716,Kevin Casey,http://www.fightmetric.com/fighter-details/8d9586726252dbf7
+"""Shaolin""",717,Shane Campbell,http://www.fightmetric.com/fighter-details/784285b7ae7dd85f
+,718,Nate Diaz,http://www.fightmetric.com/fighter-details/8355922d564b152c
+"""The Horror""",719,Rick Story,http://www.fightmetric.com/fighter-details/5b5307450405abf0
+,720,Elizabeth Phillips,http://www.fightmetric.com/fighter-details/dcbf01d605681ad1
+"""The Monsoon""",721,Lorenz Larkin,http://www.fightmetric.com/fighter-details/9450848a71d53776
+,722,Alberto Uda,http://www.fightmetric.com/fighter-details/8f2deefe8c5dfb5d
+"""The Punisher""",723,Horacio Gutierrez,http://www.fightmetric.com/fighter-details/cd85b48dc880fabd
+"""The Crusher""",724,Tatsuya Kawajiri,http://www.fightmetric.com/fighter-details/80d918336163b80c
+"""Cisco""",725,Francisco Rivera,http://www.fightmetric.com/fighter-details/7ea4a9f07df33a45
+,726,Michael Graves,http://www.fightmetric.com/fighter-details/3f1d23b01c552a13
+"""Goku""",727,Cesar Arzamendia,http://www.fightmetric.com/fighter-details/49f78022126bf4a4
+"""The Beast""",728,Jim Alers,http://www.fightmetric.com/fighter-details/fe5a9547479396ab
+"""Mayday""",729,Michael McDonald,http://www.fightmetric.com/fighter-details/d0314416a7f26527
+"""Anqa""",730,Josh Samman,http://www.fightmetric.com/fighter-details/9deff9e3e8d94d47
+"""Barbie""",731,Cristina Stanciu,http://www.fightmetric.com/fighter-details/175852708cb55776
+"""The Fist""",732,Cody Pfister,http://www.fightmetric.com/fighter-details/5904b0b38dc6718d
+,733,Brock Lesnar,http://www.fightmetric.com/fighter-details/513c6f1715e547a8
+,734,Cain Velasquez,http://www.fightmetric.com/fighter-details/0ff11cc094e887bc
+"""Wasabi""",735,Enrique Marin,http://www.fightmetric.com/fighter-details/23a6e307077c6ccc
+,736,Thiago Tavares,http://www.fightmetric.com/fighter-details/8a59d346dc976a10
+"""Acougueiro""",737,Fernando Bruno,http://www.fightmetric.com/fighter-details/b8c0f30ee9a98b69
+,738,Cory Hendricks,http://www.fightmetric.com/fighter-details/9ab9912e0f8fa6d6
+"""The Professor""",739,Anton Zafir,http://www.fightmetric.com/fighter-details/8c822811eedc11ad
+"""The Sultan""",740,Mehdi Baghdad,http://www.fightmetric.com/fighter-details/e4d2564ea0e34e2b
+"""El Toro""",741,Anthony Birchak,http://www.fightmetric.com/fighter-details/c5a126ace82a6025
+,742,Dileno Lopes,http://www.fightmetric.com/fighter-details/8270c00fae24c922
+"""J-Reazie""",743,Jerrod Sanders,http://www.fightmetric.com/fighter-details/12f1b140e248bdb9
+"""Red King""",744,Rory MacDonald,http://www.fightmetric.com/fighter-details/cbd5d3cdd862e90e
+"""The Boss""",745,Steve Bosse,http://www.fightmetric.com/fighter-details/e023fa2e648ea0f1
+"""Real Deal""",746,Chris Beal,http://www.fightmetric.com/fighter-details/55f446032177b119
+"""Warrior""",747,Zubaira Tukhugov,http://www.fightmetric.com/fighter-details/aceffa19749c4dc0
+,748,Yan Cabral,http://www.fightmetric.com/fighter-details/7cdd3e5d3aa9cb39
+"""Sho Nuff""",749,Dominic Waters,http://www.fightmetric.com/fighter-details/2de91c2244ad7e89
+"""Whoop Ass""",750,Willie Gates,http://www.fightmetric.com/fighter-details/6ded9184b2284645
+"""The Greek Assassin""",751,Chris Kelades,http://www.fightmetric.com/fighter-details/56c9acc4e86046a2
+"""Headbussa""",752,Clint Hester,http://www.fightmetric.com/fighter-details/92b62174c175ce19
+"""Hecho En Mexico""",753,Efrain Escudero,http://www.fightmetric.com/fighter-details/83fd97284f4bb4a4
+,754,Ben Rothwell,http://www.fightmetric.com/fighter-details/bd58d34e39b7b12a
+"""Napao""",755,Gabriel Gonzaga,http://www.fightmetric.com/fighter-details/270b89c00ef0c55c
+"""The Duke""",756,Igor Pokrajac,http://www.fightmetric.com/fighter-details/53278852bcd91e11
+"""Enty""",757,Ian Entwistle,http://www.fightmetric.com/fighter-details/d7adfcfdf7c6c1f8
+"""Nitro""",758,Filip Pejic,http://www.fightmetric.com/fighter-details/38ed5a2299230227
+"""The Hammer""",759,Rob Whiteford,http://www.fightmetric.com/fighter-details/1dafccb62a0f98ec
+"""Mineiro""",760,Lucas Martins,http://www.fightmetric.com/fighter-details/7413b80dbb0f8f9f
+,761,Frank Mir,http://www.fightmetric.com/fighter-details/1ff9589f9065a9ed
+,762,James Te Huna,http://www.fightmetric.com/fighter-details/f5431394fb284bb9
+,763,Mark Eddiva,http://www.fightmetric.com/fighter-details/40ff198adda94b9f
+,764,Rin Nakai,http://www.fightmetric.com/fighter-details/f9ae6914f604aa9f
+,765,Viscardi Andrade,http://www.fightmetric.com/fighter-details/d221ee27afc7a60e
+"""Filthy""",766,Tom Lawlor,http://www.fightmetric.com/fighter-details/4d44f37107f01b9b
+"""Magrao""",767,Marcelo Guimaraes,http://www.fightmetric.com/fighter-details/0c9c0a43d3f3f49d
+"""J-Bomb""",768,Justin Salas,http://www.fightmetric.com/fighter-details/9b198c73e3d0d289
+"""Juicy J""",769,Julian Erosa,http://www.fightmetric.com/fighter-details/902ec2cc48c8ae8a
+"""The Warrior""",770,Mike Wilkinson,http://www.fightmetric.com/fighter-details/cfaf010d5b389c09
+,771,Chris Dempsey,http://www.fightmetric.com/fighter-details/dfae5da5676e4194
+,772,Yaotzin Meza,http://www.fightmetric.com/fighter-details/3623bd267a2eef2e
+"""Stormin'""",773,Norman Parke,http://www.fightmetric.com/fighter-details/14ff46596ad80609
+"""Big Swede""",774,Martin Svensson,http://www.fightmetric.com/fighter-details/bcad7223af3c19da
+"""Diesel""",775,Joe Riggs,http://www.fightmetric.com/fighter-details/d512d9f204059f57
+,776,Daniel Sarafian,http://www.fightmetric.com/fighter-details/7e47047d0971d566
+"""The Spyder""",777,Jonavin Webb,http://www.fightmetric.com/fighter-details/f40ec51dd4de47c3
+,778,Jared Rosholt,http://www.fightmetric.com/fighter-details/91ea901c458e95dd
+"""Feijao""",779,Rafael Feijao,http://www.fightmetric.com/fighter-details/5c1ca0c72b599a3c
+"""King""",780,KJ Noons,http://www.fightmetric.com/fighter-details/b7ffa72aa148599a
+"""Neo""",781,Noad Lahat,http://www.fightmetric.com/fighter-details/9f755fb04cc21499
+"""Lobo""",782,Masio Fullen,http://www.fightmetric.com/fighter-details/4638cc6479cc0afe
+,783,Matt Dwyer,http://www.fightmetric.com/fighter-details/8f0d576beba1cfcd
+"""The Leech""",784,Damon Jackson,http://www.fightmetric.com/fighter-details/29af297d9f1de0f8
+"""The Hornet""",785,Levan Makashvili,http://www.fightmetric.com/fighter-details/938ad489fb7a1f31
+,786,Felipe Olivieri,http://www.fightmetric.com/fighter-details/948880beac71f028
+,787,Matt Mitrione,http://www.fightmetric.com/fighter-details/ba280572acfba13f
+"""Detroit Superstar""",788,Daron Cruickshank,http://www.fightmetric.com/fighter-details/5f99b2bafb10305f
+"""DB""",789,Diego Brandao,http://www.fightmetric.com/fighter-details/c2e3e67b5911bfb7
+,790,Tony Sims,http://www.fightmetric.com/fighter-details/57bad6a84230f0c9
+,791,Masanori Kanehara,http://www.fightmetric.com/fighter-details/f3a078277b3b8ff4
+,792,Sheldon Westcott,http://www.fightmetric.com/fighter-details/ec2d13a87d3d9541
+,793,Edgar Garcia,http://www.fightmetric.com/fighter-details/8d49545dadf9b919
+,794,Sarah Kaufman,http://www.fightmetric.com/fighter-details/36df8e119aec6175
+"""Last Call""",795,Danny Castillo,http://www.fightmetric.com/fighter-details/d1e7fc58d4225cdf
+"""Hulk""",796,Hayder Hassan,http://www.fightmetric.com/fighter-details/cf615eb4b7862c76
+"""Lyoto""",797,Marcio Alexandre Junior,http://www.fightmetric.com/fighter-details/d53482bef23235ba
+"""The Polish Zombie""",798,Marcin Wrzosek,http://www.fightmetric.com/fighter-details/aac6edb0d5e0b7e9
+"""The Russian Bear""",799,Konstantin Erokhin,http://www.fightmetric.com/fighter-details/22061ff217907c78
+,800,Mike Pierce,http://www.fightmetric.com/fighter-details/236a37d96d476164
+"""Skullman""",801,Abner Lloveras,http://www.fightmetric.com/fighter-details/6448e57a9533b7e4
+"""Doomsday""",802,John Howard,http://www.fightmetric.com/fighter-details/fc31f896cde2bc2e
+"""Real Steel""",803,Andreas Stahl,http://www.fightmetric.com/fighter-details/69a400af4420cd6a
+,804,Emily Peters Kagan,http://www.fightmetric.com/fighter-details/c1ea9d56cd953586
+"""Smooth""",805,Benson Henderson,http://www.fightmetric.com/fighter-details/2676b28836a5a836
+,806,Yoshihiro Akiyama,http://www.fightmetric.com/fighter-details/b0550072e5f0afa7
+"""The Ox""",807,Dongi Yang,http://www.fightmetric.com/fighter-details/aed06011bf62237b
+"""The Korean Bulldozer""",808,Yui Chul Nam,http://www.fightmetric.com/fighter-details/a00ec21cfbba17b6
+"""The Lion""",809,Leo Kuntz,
+"""Young Guns""",810,Scott Jorgensen,http://www.fightmetric.com/fighter-details/0b64d0fed453ef7f
+,811,Vernon Ramos,http://www.fightmetric.com/fighter-details/30b577b112bef42d
+"""Bidu""",812,Valmir Lazaro,http://www.fightmetric.com/fighter-details/777dea713da2441d
+"""El Caballero""",813,Akbarh Arreola,http://www.fightmetric.com/fighter-details/c136b2a8852da5bd
+"""The Hippo""",814,Anthony Perosh,http://www.fightmetric.com/fighter-details/4b4753d19489297f
+"""Vas""",815,Richie Vaculik,http://www.fightmetric.com/fighter-details/54578e5927adea53
+"""The Gremlin""",816,Danny Martinez,http://www.fightmetric.com/fighter-details/8a9c6c4301f6d088
+"""The Creepy Weasel""",817,Steve Montgomery,http://www.fightmetric.com/fighter-details/6e92eb1242b46636
+"""The Steamrolla""",818,Steve Kennedy,http://www.fightmetric.com/fighter-details/185fb0200a4605e6
+"""Pletwal""",819,Piotr Hallmann,http://www.fightmetric.com/fighter-details/a3be148af5c7b088
+"""Caipira de Aco""",820,Fabio Maldonado,http://www.fightmetric.com/fighter-details/1fb80f46d3c105d9
+"""Kevin""",821,Kevin Souza,http://www.fightmetric.com/fighter-details/6c7020b859c7a3ce
+"""Cobra""",822,Gasan Umalatov,http://www.fightmetric.com/fighter-details/7a39bbac8cc0fa70
+"""Korea""",823,Bruno Korea,http://www.fightmetric.com/fighter-details/6c011be66326ad97
+"""The Hooligan""",824,Paddy Holohan,http://www.fightmetric.com/fighter-details/6e7c758f5cdec01a
+"""The Heat""",825,Jon Delos Reyes,http://www.fightmetric.com/fighter-details/0d0351c20169a499
+"""Ragnar""",826,Mickael Lebout,http://www.fightmetric.com/fighter-details/c575ab451e3c5b1d
+"""Ais the Bash""",827,Aisling Daly,http://www.fightmetric.com/fighter-details/e50cd77732d39967
+,828,Ericka Almeida,http://www.fightmetric.com/fighter-details/67a992d4cff22466
+"""The Punisher""",829,Cathal Pendred,http://www.fightmetric.com/fighter-details/99c7610aa74995d3
+"""The Fightin' Texas Aggie""",830,Bubba Bush,http://www.fightmetric.com/fighter-details/132505067f08c54d
+"""The Savage""",831,Shawn Jordan,http://www.fightmetric.com/fighter-details/ca2efc9d7d523c43
+"""Leopard""",832,Ruslan Magomedov,http://www.fightmetric.com/fighter-details/369e1ce458ef50a6
+"""Sitkayan""",833,Francisco Trevino,http://www.fightmetric.com/fighter-details/97a6bbe6e6566a94
+"""Kamikaze""",834,Chris Cariaso,http://www.fightmetric.com/fighter-details/b2e3aca4cd363477
+"""The King""",835,Chico Camus,http://www.fightmetric.com/fighter-details/32be4b7f7de1c905
+,836,George Roop,http://www.fightmetric.com/fighter-details/3c0437fbeda06962
+,837,Katsunori Kikuno,http://www.fightmetric.com/fighter-details/44470bfd9483c7ad
+,838,Naoyuki Kotani,http://www.fightmetric.com/fighter-details/bc8f6b42767e28df
+"""Viva""",839,Roger Zapata,http://www.fightmetric.com/fighter-details/fe5ca7ef93c3f6a7
+"""Cassius""",840,Clay Collard,http://www.fightmetric.com/fighter-details/cc900c6a71ed23f3
+"""The Choir Boy""",841,Ron Stallings,http://www.fightmetric.com/fighter-details/6dd758d34da8d254
+"""El Tigre""",842,Nazareno Malegarie,http://www.fightmetric.com/fighter-details/d38e8c6ae2dfc051
+"""Hands of Stone""",843,Sam Stout,http://www.fightmetric.com/fighter-details/501b07aec9b8fc2d
+"""Tiger""",844,Yves Jabouin,http://www.fightmetric.com/fighter-details/b4eeac608fc82f88
+"""Xuxu""",845,Elias Silverio,http://www.fightmetric.com/fighter-details/52ba464d9068d871
+"""Kong""",846,Tom Watson,http://www.fightmetric.com/fighter-details/6809c31286b08d97
+"""Zohan""",847,Sirwan Kakai,http://www.fightmetric.com/fighter-details/2525a853486ee670
+"""El Gallito""",848,Roman Salazar,http://www.fightmetric.com/fighter-details/72c4b253d2f5ebf2
+,849,Anthony Christodoulou,http://www.fightmetric.com/fighter-details/4f11e9ce318ffbcb
+"""Minotauro""",850,Minotauro Nogueira,http://www.fightmetric.com/fighter-details/ee9d73f4fee9cbdd
+"""The Hulk""",851,Soa Palelei,http://www.fightmetric.com/fighter-details/60029bcf496bd707
+"""Wolverine""",852,Hugo Viana,http://www.fightmetric.com/fighter-details/f95381efb3051d81
+,853,Ramsey Nijem,http://www.fightmetric.com/fighter-details/22aa91e402d0fe1f
+"""The Gun""",854,Jessamyn Duke,http://www.fightmetric.com/fighter-details/a7ddae0be8b78147
+"""Batman""",855,Ivan Jorge,http://www.fightmetric.com/fighter-details/19db7ac26308178f
+,856,Pawel Pawlak,http://www.fightmetric.com/fighter-details/9310418684bc896f
+"""Macarrao""",857,Leonardo Mafra,http://www.fightmetric.com/fighter-details/8bbc0cfc01bc1ba1
+,858,Vaughan Lee,http://www.fightmetric.com/fighter-details/8bb6f4479685bbcc
+,859,Hans Stringer,http://www.fightmetric.com/fighter-details/523f6ad11dbe9b53
+"""Redser""",860,Paul Redmond,http://www.fightmetric.com/fighter-details/3f56b99447f00607
+"""The Bama Beast""",861,Marcus Brimage,http://www.fightmetric.com/fighter-details/81801f57bd0a7c41
+,862,Todd Duffee,http://www.fightmetric.com/fighter-details/bda04c573563cc2e
+"""The Punk""",863,Josh Thomson,http://www.fightmetric.com/fighter-details/a566371ba2ad7152
+,864,Igor Araujo,http://www.fightmetric.com/fighter-details/dbea8c1cb327ab3d
+"""Marajo""",865,Ildemar Alcantara,http://www.fightmetric.com/fighter-details/7c6e87729e824ef4
+"""Highlight""",866,Andrew Craig,http://www.fightmetric.com/fighter-details/8a70ceb3edbe757b
+,867,Dan Miller,http://www.fightmetric.com/fighter-details/d0c29452d3272603
+"""Mongoose""",868,Darrell Montague,http://www.fightmetric.com/fighter-details/bffeb123b21c9aad
+"""Quick""",869,Mike Swick,http://www.fightmetric.com/fighter-details/9fe85152f351e737
+"""Pink Panther""",870,Yosdenis Cedeno,http://www.fightmetric.com/fighter-details/3e61082025db8137
+"""Truck""",871,Eddie Gordon,http://www.fightmetric.com/fighter-details/8cad40a75e5c97f5
+"""Joey Slash""",872,Joe Merritt,
+"""Lethal""",873,Lewis Gonzalez,
+,874,Alan Omer,http://www.fightmetric.com/fighter-details/f2ad06f1007c481a
+,875,Niklas Backstrom,http://www.fightmetric.com/fighter-details/39cc64bf0a269db9
+"""Junior Alpha""",876,Antonio Dos Santos,http://www.fightmetric.com/fighter-details/81b8b3fb019dc69d
+"""Bad Boy""",877,Brian Ebersole,http://www.fightmetric.com/fighter-details/32ba186f4b0e3267
+"""Fast Eddy""",878,Justin Edwards,http://www.fightmetric.com/fighter-details/e56daf7725a0b5ab
+"""Demente""",879,Ricardo Abreu,http://www.fightmetric.com/fighter-details/aa6e591c2a2cdecd
+"""Chimy""",880,Leonardo Morales,http://www.fightmetric.com/fighter-details/45230be0641f3f53
+"""The Big Deal""",881,Ryan Jimmo,http://www.fightmetric.com/fighter-details/bc3ec52ef70fc155
+"""The Machine""",882,Wendell Oliveira,http://www.fightmetric.com/fighter-details/32c03df3c9760069
+"""Besouro""",883,Luiz Dutra,http://www.fightmetric.com/fighter-details/2153a7f8396a46cc
+"""The Gremlin""",884,Joshua Sampo,http://www.fightmetric.com/fighter-details/f65dcb22dada2223
+,885,Costas Philippou,http://www.fightmetric.com/fighter-details/05560764359161e4
+"""The Filipino Wrecking Machine""",886,Mark Munoz,http://www.fightmetric.com/fighter-details/179f1948dc234f1f
+"""The Bigslow""",887,Luke Barnatt,http://www.fightmetric.com/fighter-details/172c2135e70f87b7
+"""The Warrior""",888,Zhang Lipeng,http://www.fightmetric.com/fighter-details/7b310409440c9102
+,889,Royston Wee,http://www.fightmetric.com/fighter-details/b9c03e7a4557e542
+"""The Executioner""",890,Roldan Sangcha-an,http://www.fightmetric.com/fighter-details/57887765f831e228
+,891,Nolan Ticman,http://www.fightmetric.com/fighter-details/9eb069062a0cfc13
+,892,Hatsu Hioki,http://www.fightmetric.com/fighter-details/ef7fa30364cbe7f2
+,893,Lisa Ellis,http://www.fightmetric.com/fighter-details/77350fd0e6d1dba8
+"""The Villain""",894,Dylan Andrews,http://www.fightmetric.com/fighter-details/00debc804e2b1cd4
+"""The Spartan""",895,Vik Grujic,http://www.fightmetric.com/fighter-details/1e7483dbff40b84b
+"""The Turkish Delight""",896,Alptekin Ozkilic,http://www.fightmetric.com/fighter-details/e18a19001a3f7c7d
+"""Rampage""",897,Rampage Jackson,http://www.fightmetric.com/fighter-details/ffc088e64fab57e9
+"""BullDawg""",898,David Michaud,http://www.fightmetric.com/fighter-details/49f4b511932f71e9
+"""The Menace""",899,Chris Clements,http://www.fightmetric.com/fighter-details/e5ecaf884b6da2bc
+"""The Ragin'""",900,Jessica Rakoczy,http://www.fightmetric.com/fighter-details/ffdeb4fbea09ce75
+"""The Kid""",901,Jimy Hettes,http://www.fightmetric.com/fighter-details/893d51aaf024eddd
+"""Cro Cop""",902,Mirko Cro Cop,http://www.fightmetric.com/fighter-details/c32fb8c0f6471a4d
+"""The Polish Pistola""",903,Seth Baczynski,http://www.fightmetric.com/fighter-details/fd5b6598a3b70c0a
+,904,Izabela Badurek,http://www.fightmetric.com/fighter-details/4fcf6e0c4e0e6664
+"""Bomba""",905,Marcin Bandel,http://www.fightmetric.com/fighter-details/5c2ce761399dc9c5
+,906,Rocky Lee,http://www.fightmetric.com/fighter-details/0d1c163b206e8c5f
+"""Problems""",907,Robert Peralta,http://www.fightmetric.com/fighter-details/960d6cae8879ba2b
+"""Lazybones""",908,Justin Jones,http://www.fightmetric.com/fighter-details/9b75954db8db2a08
+,909,Josh Koscheck,http://www.fightmetric.com/fighter-details/dd37fd509af89f15
+"""The Queen of Spades""",910,Shayna Baszler,http://www.fightmetric.com/fighter-details/8ef4a91ac694b7ce
+"""The Insane""",911,Cain Carrizosa,http://www.fightmetric.com/fighter-details/064b7dc68d786254
+"""Blade""",912,Jorge de Oliveira,http://www.fightmetric.com/fighter-details/ddf3e0ea10ea6d8c
+"""Dr. Bolivia""",913,Bentley Syler,http://www.fightmetric.com/fighter-details/abd2109bc4cb0291
+"""Silverback""",914,Roger Narvaez,http://www.fightmetric.com/fighter-details/3a12a2f096a6d975
+"""Cuddly Bear""",915,Josh Copeland,http://www.fightmetric.com/fighter-details/3aa794cbe1e3484b
+"""The Librarian""",916,Jake Lindsey,http://www.fightmetric.com/fighter-details/33e00249ef08d3a4
+,917,Larissa Pacheco,http://www.fightmetric.com/fighter-details/16b89be2f5c16fba
+"""Kid""",918,Norifumi Yamamoto,http://www.fightmetric.com/fighter-details/4834ff149dc9542a
+"""Fangzz""",919,Ruan Potts,http://www.fightmetric.com/fighter-details/7e208569469c8bc8
+"""Rolo""",920,Alex Torres,http://www.fightmetric.com/fighter-details/e4e0f310b3cf23a8
+"""Patolino""",921,William Patolino,http://www.fightmetric.com/fighter-details/ed74afc8b5b47a61
+"""The Renegade""",922,Cody Gibson,http://www.fightmetric.com/fighter-details/700a674c042b7a96
+,923,Josh Shockley,http://www.fightmetric.com/fighter-details/1d36f1ac66cf689d
+"""The Beast of the East""",924,Patrick Walsh,http://www.fightmetric.com/fighter-details/b4c96c3d9139bf0e
+"""Monstro""",925,Rodrigo de Lima,http://www.fightmetric.com/fighter-details/a4dc47001f202bcd
+,926,Nick Diaz,http://www.fightmetric.com/fighter-details/f57a8a52ca401ed9
+"""Uncle Creepy""",927,Ian McCall,http://www.fightmetric.com/fighter-details/701e057d63c124d9
+"""Rick Monstro""",928,Richardson Moreira,http://www.fightmetric.com/fighter-details/9147679e1a4ad4a3
+"""Lionheart""",929,Andy Enz,http://www.fightmetric.com/fighter-details/993d385f5a475375
+"""Mr. Wonderful""",930,Phil Davis,http://www.fightmetric.com/fighter-details/902ab9197b83d0db
+,931,Akira Corassani,http://www.fightmetric.com/fighter-details/3f52ce18fb98008f
+"""The Little Axe""",932,Andy Ogle,http://www.fightmetric.com/fighter-details/b6c4451cb13c9303
+"""Stucky""",933,Stanislav Nedkov,http://www.fightmetric.com/fighter-details/1d4bbaabd8b60173
+,934,Shane Howell,http://www.fightmetric.com/fighter-details/a7de976620f2ed13
+,935,Sean Soriano,http://www.fightmetric.com/fighter-details/bd5403efbaa445c0
+"""Gutter""",936,Matt Van Buren,http://www.fightmetric.com/fighter-details/7b39035fae7268b8
+"""Tech""",937,Tateki Matsuda,http://www.fightmetric.com/fighter-details/3a524c6700addc24
+"""Goodnight""",938,Louis Gaudinot,http://www.fightmetric.com/fighter-details/b72a60a0cadff408
+,939,Rodrigo Damm,http://www.fightmetric.com/fighter-details/a20d7dfaba74c067
+,940,Mats Nilsson,http://www.fightmetric.com/fighter-details/a9bcf8717dd12532
+"""Sneaky Zebra""",941,Alexis Dufresne,http://www.fightmetric.com/fighter-details/4ae4049426e0161d
+"""Biggie""",942,Mike Rhodes,http://www.fightmetric.com/fighter-details/b7ad576b8ae115e6
+"""Stoneface""",943,Tom Niinimaki,http://www.fightmetric.com/fighter-details/5fceb45939fc0c8a
+,944,Jamie Varner,http://www.fightmetric.com/fighter-details/a54fc2d6fc224dc3
+"""Excalibur""",945,Joe Ellenberger,http://www.fightmetric.com/fighter-details/8e8e4487c621aa1c
+"""Goodnight""",946,Garett Whiteley,http://www.fightmetric.com/fighter-details/129537073431e52e
+"""The Diamond""",947,Dustin Kimura,http://www.fightmetric.com/fighter-details/fe91d254db77a7fc
+"""Big Brown""",948,Brendan Schaub,http://www.fightmetric.com/fighter-details/89a407032911e27e
+"""The Crowbar""",949,Matt Hobar,http://www.fightmetric.com/fighter-details/b57edace7b647f07
+,950,Matt Wiman,http://www.fightmetric.com/fighter-details/eb29176b03dfa888
+,951,Isaac Vallie-Flagg,http://www.fightmetric.com/fighter-details/c295de4e10acd4c9
+,952,Yves Edwards,http://www.fightmetric.com/fighter-details/5f04e3d58d9ce982
+"""Fenix""",953,Juan Puig,http://www.fightmetric.com/fighter-details/85d0fafb8b75d634
+"""Stump""",954,Chris Heatherly,http://www.fightmetric.com/fighter-details/bad8be5827ea1bf1
+"""El Gato Negro""",955,Humberto Brown,http://www.fightmetric.com/fighter-details/e9e7e1c8ff289e1b
+"""Fito""",956,Rodolfo Rubio,http://www.fightmetric.com/fighter-details/c4731f43693b96b8
+"""The Spaniard""",957,Charlie Brenneman,http://www.fightmetric.com/fighter-details/98f6da59d765ec94
+"""The Psycho""",958,Tim Gorman,http://www.fightmetric.com/fighter-details/c10eb2f12c489f6d
+"""Wagnao""",959,Wagner Silva,http://www.fightmetric.com/fighter-details/fb79582c410d049e
+"""Ceara""",960,Vagner Rocha,http://www.fightmetric.com/fighter-details/d403b1a6f278c95e
+,961,Guto Inocente,http://www.fightmetric.com/fighter-details/e7fe5315b1efeb92
+,962,Luke Zachrich,http://www.fightmetric.com/fighter-details/2284092f8b63273b
+"""Leopard""",963,Jumabieke Tuerxun,http://www.fightmetric.com/fighter-details/1ed32eaaba9ffe10
+"""Morango""",964,Fabricio Camoes,http://www.fightmetric.com/fighter-details/7abe471b61725980
+"""Carioca""",965,Bruno Santos,http://www.fightmetric.com/fighter-details/da1d8d76404bb6b5
+"""The Assassin""",966,Anthony Njokuani,http://www.fightmetric.com/fighter-details/6bf5a7d3e081ade2
+"""The Hammer""",967,Tor Troeng,http://www.fightmetric.com/fighter-details/8abf70f79e9e27c2
+"""The Mad Titan""",968,Ernest Chavez,http://www.fightmetric.com/fighter-details/b406da701c479076
+,969,Amir Sadollah,http://www.fightmetric.com/fighter-details/2650e2f846a30f64
+,970,Takenori Sato,http://www.fightmetric.com/fighter-details/276c60b14b571dd4
+,971,Kazuki Tokudome,http://www.fightmetric.com/fighter-details/c4af2feb4b58bc3b
+"""Flyboy""",972,Dashon Johnson,http://www.fightmetric.com/fighter-details/36207c58e854cae5
+,973,Paulo Thiago,http://www.fightmetric.com/fighter-details/30a09e43f15f1d75
+"""Brutal""",974,Johnny Bedford,http://www.fightmetric.com/fighter-details/ffc3e6daaa6da0b7
+"""Limitless""",975,Francis Carmont,http://www.fightmetric.com/fighter-details/3591d0d5d382a381
+"""The Model""",976,Aaron Phillips,http://www.fightmetric.com/fighter-details/34c2b3656f88f7ef
+,977,Cung Le,http://www.fightmetric.com/fighter-details/d4f364dd076bb0e2
+"""Tiger""",978,Jianping Yang,http://www.fightmetric.com/fighter-details/d3c554d6e11fc9d6
+"""The Fire Kylin""",979,Sai Wang,http://www.fightmetric.com/fighter-details/efb9a43415a56d34
+"""The Cheesecake Assassin""",980,Danny Mitchell,http://www.fightmetric.com/fighter-details/c06d554ce1713fd3
+,981,Roland Delorme,http://www.fightmetric.com/fighter-details/173acb3f920082b8
+"""Smiley""",982,An Ying Wang,http://www.fightmetric.com/fighter-details/69e8c632135af48b
+"""The Outlaw""",983,Jack May,http://www.fightmetric.com/fighter-details/2c6e81426dd7573c
+"""Kingsbu""",984,Kyle Kingsbury,http://www.fightmetric.com/fighter-details/b959e8c7fd8390d2
+,985,Hernani Perpetuo,http://www.fightmetric.com/fighter-details/575360be653ad6a6
+"""Super""",986,Steven Siler,http://www.fightmetric.com/fighter-details/d188a3b817860ec6
+"""Billy""",987,Phil Harris,http://www.fightmetric.com/fighter-details/ba043b03eb799063
+,988,Mike King,http://www.fightmetric.com/fighter-details/564c2f5f9eb45d67
+"""Donnybrook""",989,Cody Donovan,http://www.fightmetric.com/fighter-details/7bc96507e4b38d3b
+"""Bam Bam""",990,Pat Healy,http://www.fightmetric.com/fighter-details/50d2f0018bcf9eef
+"""Jelly Bean""",991,Tina Lahdemaki,http://www.fightmetric.com/fighter-details/e5ca2bc2451a5956
+"""The Body Snatcher""",992,Jesse Ronson,http://www.fightmetric.com/fighter-details/5580771f383e141f
+"""Dragon""",993,Daniel Spohn,http://www.fightmetric.com/fighter-details/87f3bbf52e6c9dc9
+,994,Robert Drysdale,http://www.fightmetric.com/fighter-details/d2a9be6bf2de624c
+"""Bomba""",995,Guilherme Vasconcelos,http://www.fightmetric.com/fighter-details/d6d5da3c209884bc
+,996,Colton Smith,http://www.fightmetric.com/fighter-details/2e25c1d983c26311
+"""The Savage""",997,Chris Indich,http://www.fightmetric.com/fighter-details/d5b7fac960e58920
+"""The Hulk""",998,Mike Easton,http://www.fightmetric.com/fighter-details/bc7230f231701d66
+"""The Kansas City Bandit""",999,Jason High,http://www.fightmetric.com/fighter-details/e5d03e4d966126bd
+"""Vicious""",1000,Bobby Voelker,http://www.fightmetric.com/fighter-details/fb8a3025ae722e64
+,1001,Lance Benoist,http://www.fightmetric.com/fighter-details/5431dccc09118234
+"""Holds it Down""",1002,Chris Holdsworth,http://www.fightmetric.com/fighter-details/fc60ecf0671b9489
+"""Manimal""",1003,Ben Wall,http://www.fightmetric.com/fighter-details/1ad381c8994c4e5b
+"""The Recipe""",1004,Anthony Lapsley,http://www.fightmetric.com/fighter-details/f3a853544e4413c4
+"""El Terrible""",1005,Estevan Payan,http://www.fightmetric.com/fighter-details/d0a5ef38a7778ac2
+,1006,Mark Bocek,http://www.fightmetric.com/fighter-details/cf9d24e4bd0cf2ce
+,1007,Ronny Markes,http://www.fightmetric.com/fighter-details/bd21a1e3d41c97ee
+"""Bodao""",1008,Thiago Perpetuo,http://www.fightmetric.com/fighter-details/c1a5d3843596df92
+,1009,Jake Shields,http://www.fightmetric.com/fighter-details/fe435e440b5de0ff
+,1010,Renee Forte,http://www.fightmetric.com/fighter-details/44bc27bfa76dcd9e
+,1011,Will Campuzano,http://www.fightmetric.com/fighter-details/901cddcbfa079097
+"""The Menace""",1012,Bubba McDaniel,http://www.fightmetric.com/fighter-details/5cafbc97dba2e797
+"""The Pit""",1013,Daniel Pineda,http://www.fightmetric.com/fighter-details/361d49960a196976
+"""The Young Assassin""",1014,Melvin Guillard,http://www.fightmetric.com/fighter-details/ccd1299e0345e0ce
+"""The Snake""",1015,Cyrille Diabate,http://www.fightmetric.com/fighter-details/43563a32c3f10e95
+"""The Hitman""",1016,John Hathaway,http://www.fightmetric.com/fighter-details/28f3c2258a1d8874
+"""The Pride of El Salvador""",1017,Ivan Menjivar,http://www.fightmetric.com/fighter-details/5755960ebd0b16f6
+,1018,Nam Phan,http://www.fightmetric.com/fighter-details/80dbeb1dd5b53e64
+,1019,Albert Cheng,http://www.fightmetric.com/fighter-details/d8d7b24d276c8cb0
+"""The Modern Day Warrior""",1020,TJ Waldburger,http://www.fightmetric.com/fighter-details/8f2939f5fd9cca1e
+"""Tractor""",1021,Rafaello Oliveira,http://www.fightmetric.com/fighter-details/15b1b21cd743d652
+,1022,Cristiano Marcello,http://www.fightmetric.com/fighter-details/ff4c3ab594c7fac3
+"""The Jersey Devil""",1023,Nick Catone,http://www.fightmetric.com/fighter-details/f8fe2053d73d7bcf
+"""Hot Handed""",1024,Junior Hernandez,http://www.fightmetric.com/fighter-details/915c8d39d4a0e7d1
+"""The Wolverine""",1025,Mike Rio,http://www.fightmetric.com/fighter-details/af90b10c785ced3e
+"""B-Hue""",1026,Brian Houston,http://www.fightmetric.com/fighter-details/36fbaa49a09ff997
+"""Rolling Star""",1027,Shunichi Shimizu,http://www.fightmetric.com/fighter-details/10657c60ce349e0f
+"""The Kill""",1028,Will Chope,http://www.fightmetric.com/fighter-details/db5dc7cb80d7d418
+,1029,Quinn Mulhern,http://www.fightmetric.com/fighter-details/16af2d5a6f28bee2
+"""Scarecrow""",1030,Dave Galera,http://www.fightmetric.com/fighter-details/0876d21328cf4a45
+"""The Crippler""",1031,Chris Leben,http://www.fightmetric.com/fighter-details/d43a048a880efdff
+,1032,Mac Danzig,http://www.fightmetric.com/fighter-details/86f582852a5b240a
+,1033,Cody McKenzie,http://www.fightmetric.com/fighter-details/7be63795363029e8
+"""Relentless""",1034,Roger Bowling,http://www.fightmetric.com/fighter-details/3b9f723e2720a238
+"""BC""",1035,Darren Uyenoyama,http://www.fightmetric.com/fighter-details/6546af7ab545b90c
+"""HD""",1036,Pat Barry,http://www.fightmetric.com/fighter-details/658c3465581ae46b
+,1037,Julie Kedzie,http://www.fightmetric.com/fighter-details/981ab7a0576f76a0
+"""The Promise""",1038,Nick Ring,http://www.fightmetric.com/fighter-details/b13da0b1a3aed3e7
+"""The Daywalker""",1039,Peggy Morgan,http://www.fightmetric.com/fighter-details/92b36014314b028b
+,1040,Chael Sonnen,http://www.fightmetric.com/fighter-details/48d1f690b763934c
+"""El Feroz""",1041,Edwin Figueroa,http://www.fightmetric.com/fighter-details/bbfca6d5c27d9cd8
+"""No Chance""",1042,Jose Maria,http://www.fightmetric.com/fighter-details/b35ba64b6a2bbcb3
+"""Legionarius""",1043,Alessio Sakara,http://www.fightmetric.com/fighter-details/7f955f71fa2ce7ac
+"""The Surgeon""",1044,Rosi Sexton,http://www.fightmetric.com/fighter-details/5dfe71ade71f3a4b
+,1045,Michael Kuiper,http://www.fightmetric.com/fighter-details/b7f38813485745da
+,1046,George Sotiropoulos,http://www.fightmetric.com/fighter-details/896c322f56b8be5a
+"""Borz""",1047,Adlan Amagov,http://www.fightmetric.com/fighter-details/1e327b281ef6a745
+,1048,Jeremy Larsen,http://www.fightmetric.com/fighter-details/c3bd649a9194e50c
+"""The Disciple""",1049,Dustin Pague,http://www.fightmetric.com/fighter-details/55f80a8aeffcdb33
+,1050,Thiago Silva,http://www.fightmetric.com/fighter-details/2924886ee9c4c527
+"""The Hammer""",1051,Matt Hamill,http://www.fightmetric.com/fighter-details/98b80a717b9bda17
+"""The Mexicutioner""",1052,Joey Beltran,http://www.fightmetric.com/fighter-details/46baf0f57edfa4df
+"""Toquinho""",1053,Rousimar Palhares,http://www.fightmetric.com/fighter-details/8ddf9c51c5fdea75
+"""Daudi""",1054,David Mitchell,http://www.fightmetric.com/fighter-details/8f3df4c579cfbb69
+,1055,Iliarde Santos,http://www.fightmetric.com/fighter-details/14aa21bc82cac57d
+"""The Martian""",1056,Mike Ricci,http://www.fightmetric.com/fighter-details/3c921b1a30fdcbdd
+"""The Hun""",1057,Nandor Guelmino,http://www.fightmetric.com/fighter-details/1abfb658cd4f8533
+"""Vina""",1058,Marcos Vinicius,http://www.fightmetric.com/fighter-details/e363b21261814830
+"""The Brazilian Samurai""",1059,Joao Zeferino,http://www.fightmetric.com/fighter-details/be4076c9e8d791e3
+"""The Polish Connection""",1060,Keith Wisniewski,http://www.fightmetric.com/fighter-details/cd12227edd3f134b
+,1061,Yuri Villefort,http://www.fightmetric.com/fighter-details/0fb1e2694a39a02f
+"""The Truth""",1062,Brandon Vera,http://www.fightmetric.com/fighter-details/fa315e6c77eee106
+"""Panzer""",1063,Pascal Krauss,http://www.fightmetric.com/fighter-details/a01e84abefd85ec0
+,1064,Ryan Couture,http://www.fightmetric.com/fighter-details/46fd223e3ced39b3
+"""The Messenger""",1065,Jared Hamman,http://www.fightmetric.com/fighter-details/23459ee7e373b98f
+"""The Hitman""",1066,Martin Kampmann,http://www.fightmetric.com/fighter-details/8b69839f3555a67b
+,1067,Brian Melancon,http://www.fightmetric.com/fighter-details/eee7dafac7d672b5
+"""Makambo""",1068,Papy Abedi,http://www.fightmetric.com/fighter-details/c9f6385af6df66d7
+,1069,James Head,http://www.fightmetric.com/fighter-details/19a8cce18a1cef9e
+"""Blanco""",1070,Benny Alloway,http://www.fightmetric.com/fighter-details/c4fe2e9a06ea5bcb
+,1071,Mike Brown,http://www.fightmetric.com/fighter-details/e0b74df14f52cd15
+"""Pezao""",1072,Vinny Magalhaes,http://www.fightmetric.com/fighter-details/88a9bc81271ccd89
+"""The German Tank""",1073,Sheila Gaff,http://www.fightmetric.com/fighter-details/837d30395faca41e
+"""The Gentleman""",1074,Josh Clopton,http://www.fightmetric.com/fighter-details/48e96d9cea6d4ab0
+"""Lula""",1075,Ednaldo Oliveira,http://www.fightmetric.com/fighter-details/acd9513399a8b09b
+,1076,Bristol Marunde,http://www.fightmetric.com/fighter-details/a17322f99ddfd8e9
+,1077,Aaron Riley,http://www.fightmetric.com/fighter-details/f2c8ebbeafd45f2b
+"""Prince""",1078,John Albert,http://www.fightmetric.com/fighter-details/7bd94b60d7521e4a
+,1079,Roger Gracie,http://www.fightmetric.com/fighter-details/a6bbd3df469c6bea
+,1080,Dave Herman,http://www.fightmetric.com/fighter-details/cbd6f1abf955e628
+"""The Punisher""",1081,Sean Pierson,http://www.fightmetric.com/fighter-details/0d506315895efffc
+"""The One""",1082,John Maguire,http://www.fightmetric.com/fighter-details/1a7745388839e52b
+,1083,Eddie Mendez,http://www.fightmetric.com/fighter-details/49e49b54e5901d0d
+,1084,Karlos Vemola,http://www.fightmetric.com/fighter-details/d23ccf4a6c221284
+,1085,TJ Grant,http://www.fightmetric.com/fighter-details/a26198ba5093147e
+"""The Rock n Rolla""",1086,Nah-Shon Burrell,http://www.fightmetric.com/fighter-details/2c64c035485906aa
+,1087,Brian Bowles,http://www.fightmetric.com/fighter-details/b26d3e3746fb4024
+,1088,John Cholish,http://www.fightmetric.com/fighter-details/03c9994c5b8958ec
+"""The Hulk""",1089,Roger Hollett,http://www.fightmetric.com/fighter-details/27d65e9d0fba61ea
+,1090,Azamat Gashimov,http://www.fightmetric.com/fighter-details/a1b0715c4fd2dbd3
+"""The Talent""",1091,Alan Belcher,http://www.fightmetric.com/fighter-details/4130a743d9d22163
+,1092,Cheick Kongo,http://www.fightmetric.com/fighter-details/1eacf73d6a0055dc
+"""Bad Boy""",1093,Leonard Garcia,http://www.fightmetric.com/fighter-details/917e53fa0adea0d3
+,1094,Clifford Starks,http://www.fightmetric.com/fighter-details/5abf827d62f98fee
+,1095,Gilbert Smith,http://www.fightmetric.com/fighter-details/54ed8dc6f8c31207
+,1096,Collin Hart,http://www.fightmetric.com/fighter-details/16bf6a73bdd302cd
+"""Crash""",1097,Jimmy Quinlan,http://www.fightmetric.com/fighter-details/ddbe4fa2ea573393
+"""Bartimus""",1098,Bart Palaszewski,http://www.fightmetric.com/fighter-details/4304992c2acc187b
+"""The American Kidd""",1099,Justin Lawrence,http://www.fightmetric.com/fighter-details/879f6cae48d25baa
+,1100,Philip De Fries,http://www.fightmetric.com/fighter-details/6ef65b6a152e49d5
+"""The Scarecrow""",1101,Pablo Garza,http://www.fightmetric.com/fighter-details/8e5bfd4e82352340
+"""El Naturel""",1102,Adam Cella,http://www.fightmetric.com/fighter-details/b27b8881d7444114
+"""The Kiss""",1103,Chris Spang,http://www.fightmetric.com/fighter-details/411d012af19ecb59
+,1104,Besam Yousef,http://www.fightmetric.com/fighter-details/98ec9f385cca47fc
+"""The Freakshow""",1105,Colin Fletcher,http://www.fightmetric.com/fighter-details/7d09200f6a77b20e
+"""Pato""",1106,Antonio Carvalho,http://www.fightmetric.com/fighter-details/fef3d17e27e916e7
+,1107,Issei Tamura,http://www.fightmetric.com/fighter-details/57bf89d42364d39e
+,1108,Reuben Duran,http://www.fightmetric.com/fighter-details/4417980b3e798abf
+"""The Axe Murderer""",1109,Wanderlei Silva,http://www.fightmetric.com/fighter-details/a1f6999fe57236e0
+"""All American""",1110,Brian Stann,http://www.fightmetric.com/fighter-details/579fcdfcabd23a7b
+,1111,Riki Fukuda,http://www.fightmetric.com/fighter-details/7c35f869033901ae
+"""The Dentist""",1112,Josh Neer,http://www.fightmetric.com/fighter-details/d1a1314976c50bef
+"""Big""",1113,Lavar Johnson,http://www.fightmetric.com/fighter-details/e6c5908910cc26e4
+,1114,Anton Kuivanen,http://www.fightmetric.com/fighter-details/706f8e2b34e8e18b
+"""The Real One""",1115,Matt Grice,http://www.fightmetric.com/fighter-details/bfc2fc38a0e20211
+"""The Future""",1116,Caros Fodor,http://www.fightmetric.com/fighter-details/01d2ed8c502e3828
+"""The Machine""",1117,Brock Jardine,http://www.fightmetric.com/fighter-details/64959f90b6dd9759
+,1118,Jon Manley,http://www.fightmetric.com/fighter-details/a0602dd050bebefc
+"""The Sandman""",1119,Jorge Santiago,http://www.fightmetric.com/fighter-details/f8dc544e7077d014
+"""Beautiful""",1120,Che Mills,http://www.fightmetric.com/fighter-details/6cadfd8f1d9e7685
+"""Deep Waters""",1121,Matthew Riddle,http://www.fightmetric.com/fighter-details/d023ae89a2a4a41e
+,1122,Terry Etim,http://www.fightmetric.com/fighter-details/33011768c3c4dc9a
+,1123,Paul Sass,http://www.fightmetric.com/fighter-details/7b143a54451263d9
+"""The Fluke""",1124,Josh Grispi,http://www.fightmetric.com/fighter-details/60ba33c3f555a7a3
+,1125,Motonobu Tezuka,http://www.fightmetric.com/fighter-details/d34636a85f0f4c90
+"""Useless""",1126,Ulysses Gomez,http://www.fightmetric.com/fighter-details/1e35aa8955794580
+,1127,Jon Fitch,http://www.fightmetric.com/fighter-details/6f018c039b4d5d80
+"""The Thoroughbred""",1128,Jay Hieron,http://www.fightmetric.com/fighter-details/5bb0a618ad03ac64
+"""Christmas""",1129,Jacob Volkmann,http://www.fightmetric.com/fighter-details/6f81b6de2557739a
+,1130,Mike Stumpf,http://www.fightmetric.com/fighter-details/c0c36a5b3d5bbdd5
+"""The Janitor""",1131,Vladimir Matyushenko,http://www.fightmetric.com/fighter-details/ccdd90bd1fc7dab6
+,1132,Mike Russow,http://www.fightmetric.com/fighter-details/353de740bb6c7e75
+"""The Grin""",1133,Simeon Thoresen,http://www.fightmetric.com/fighter-details/fea8acf9bfcf09ec
+"""Miltinho""",1134,Milton Vieira,http://www.fightmetric.com/fighter-details/7cf20446453f852b
+"""The Gun""",1135,Diego Nunes,http://www.fightmetric.com/fighter-details/3a24769a4855040a
+"""The Rock""",1136,Pedro Nobre,http://www.fightmetric.com/fighter-details/e983c62faf677ab2
+"""Caldeirao""",1137,Wagner Prado,http://www.fightmetric.com/fighter-details/7f6ef4e1227600bc
+,1138,CJ Keith,http://www.fightmetric.com/fighter-details/c0eecd851dbf3146
+,1139,Byron Bloodworth,http://www.fightmetric.com/fighter-details/ecdf14f4f8643d39
+,1140,Shane del Rosario,http://www.fightmetric.com/fighter-details/85980f5da429c0a6
+,1141,Jonathan Brookins,http://www.fightmetric.com/fighter-details/b0a6124751a56bc4
+"""The Potter""",1142,John Cofer,http://www.fightmetric.com/fighter-details/8b260672a21d1fd6
+"""The Jackhammer""",1143,Jared Papazian,http://www.fightmetric.com/fighter-details/edad57b3dddf2168
+"""Chalate""",1144,Manuel Rodriguez,http://www.fightmetric.com/fighter-details/5a6e4d2f0c76a242
+,1145,Brendan Loughnane,http://www.fightmetric.com/fighter-details/b788862dd1c11eac
+"""The Quiet Assassin""",1146,Nick Penner,http://www.fightmetric.com/fighter-details/879b8df81523d91b
+"""Sicario""",1147,Henry Martinez,http://www.fightmetric.com/fighter-details/76729a829623e266
+"""The Prospect""",1148,Marcus LeVesseur,http://www.fightmetric.com/fighter-details/182f2b78582de3d8
+"""The Machine""",1149,Mark Hominick,http://www.fightmetric.com/fighter-details/0a97691039c4bbfb
+"""The Grave Digger""",1150,Chad Griggs,http://www.fightmetric.com/fighter-details/fdf18227faa596dd
+"""Ace""",1151,Rich Franklin,http://www.fightmetric.com/fighter-details/d897897060f10a3a
+"""The Wolf""",1152,Tiequan Zhang,http://www.fightmetric.com/fighter-details/c23e3d4875340d8d
+"""Hellbound""",1153,Jeff Hougland,http://www.fightmetric.com/fighter-details/97a8f39186f489db
+,1154,Yasuhiro Urushitani,http://www.fightmetric.com/fighter-details/c34e5849184b08c3
+,1155,Tom DeBlass,http://www.fightmetric.com/fighter-details/0bcfe2513cb3bc39
+"""The American Psycho""",1156,Stephan Bonnar,http://www.fightmetric.com/fighter-details/c6a33ff198aaaeeb
+"""The Raging Warrior""",1157,Joey Gambino,http://www.fightmetric.com/fighter-details/10559c53de0b950e
+"""Banha""",1158,Luiz Cane,http://www.fightmetric.com/fighter-details/24b033b3daf1c9df
+"""A-Train""",1159,Aaron Simpson,http://www.fightmetric.com/fighter-details/d5f820c11a121050
+"""Neo""",1160,Carlo Prater,
+,1161,Shane Roller,
+"""The Outlaw""",1162,Dan Hardy,http://www.fightmetric.com/fighter-details/473ce3aa581251a2
+"""Bang""",1163,Duane Ludwig,http://www.fightmetric.com/fighter-details/84ac950d4c1722dd
+"""Darkness""",1164,DaMarques Johnson,
+"""Shotgun""",1165,Jason Young,http://www.fightmetric.com/fighter-details/f59e9e49ef85b469
+"""The Gazelle""",1166,Walel Watson,
+,1167,Buddy Roberts,http://www.fightmetric.com/fighter-details/b2a2da86546ddb19
+"""Wild Card""",1168,Tommy Hayden,
+,1169,Ken Stone,http://www.fightmetric.com/fighter-details/fbf0947399d14323
+,1170,Eiji Mitsuoka,
+,1171,Oli Thompson,
+,1172,Michihiro Omigawa,
+"""The Angel of Death""",1173,Damacio Page,
+"""Taz""",1174,Josh Ferguson,
+"""The Anvil""",1175,Dan Stittgen,
+,1176,Forrest Griffin,http://www.fightmetric.com/fighter-details/fcffee71cff5530e
+"""The People's Champ""",1177,Tito Ortiz,
+"""The Natural""",1178,John Alessio,
+"""Cuba""",1179,Yoislandy Izquierdo,
+"""Gasparzinho""",1180,Anistavio Medeiros,
+"""Pe De Chumbo""",1181,Delson Heleno,
+"""Macapa""",1182,John Teixeira,
+"""Galeto""",1183,Wagner Campos,http://www.fightmetric.com/fighter-details/db6d5f691aea3fd3
+"""The King""",1184,Spencer Fisher,http://www.fightmetric.com/fighter-details/f34312c2ccfa0e00
+"""Beicao""",1185,Luis Ramos,
+"""Golden Boy""",1186,Ricardo Funch,
+"""Ta Danado""",1187,Carlos Eduardo Rocha,
+"""Trekko""",1188,Bernardo Magalhaes,
+"""Hitman""",1189,Jake Hecht,
+"""Thrilling""",1190,Pat Schilling,
+"""BadBoy""",1191,Chris Tickle,
+"""The So Cal Kid""",1192,Chris Saunders,
+"""Mayhem""",1193,Jason Miller,
+,1194,Jorge Lopez,
+"""The Athlete""",1195,Jason MacDonald,http://www.fightmetric.com/fighter-details/2be6596a9db33bf5
+"""Prince of Persia""",1196,Kamal Shalorus,
+"""Big Frog""",1197,Jeff Curran,
+"""Extremo""",1198,Alex Soto,
+"""The Ninja of Love""",1199,Nick Denis,http://www.fightmetric.com/fighter-details/e4aaaa34535e32b6
+"""The Master of Disaster""",1200,Mike Massenzio,
+,1201,Miguel Torres,
+"""The Filipino Phenom""",1202,Eddie Yagin,http://www.fightmetric.com/fighter-details/cc84b68f862b466f
+"""Little Lee""",1203,Eric Wisely,
+,1204,Aaron Rosa,
+"""Da Menace""",1205,Mackens Semerzier,
+"""The Robot""",1206,Steve Cantwell,
+"""C-Murder""",1207,Chris Cope,
+"""The Viking""",1208,Jon Olav Einemo,
+,1209,Dustin Jacoby,
+,1210,Christian Morecraft,http://www.fightmetric.com/fighter-details/80779d7441af1b52
+"""El Conquistador""",1211,Jorge Rivera,
+"""Red""",1212,Eric Schafer,
+"""Ninja""",1213,Daniel Roberts,
+,1214,Joseph Sandoval,
+,1215,Junior Assuncao,
+"""The Prince""",1216,Claude Patrick,http://www.fightmetric.com/fighter-details/56116a79e4deed06
+"""The Polish Experiment""",1217,Krzysztof Soszynski,http://www.fightmetric.com/fighter-details/59583ff832fe9d68
+"""Superman""",1218,Dennis Hallman,
+"""The Raging Bull""",1219,Rich Attonito,
+"""Bigfish""",1220,Stephen Bass,http://www.fightmetric.com/fighter-details/1cecc8fe6748a532
+"""The Beast""",1221,Dustin Neace,http://www.fightmetric.com/fighter-details/e503aa5c252a1b4d
+"""Hitman""",1222,Jason Brilz,
+,1223,Nick Pace,
+,1224,Shamar Bailey,
+"""Bushwacker""",1225,Clay Harvison,
+"""Apache Kid""",1226,Cole Escovedo,
+"""The Gentleman""",1227,Paul Bradley,
+"""Luke Duke""",1228,Matt Lucas,
+,1229,Edward Faaloloto,
+"""The Bear""",1230,Rob Broughton,
+,1231,Tyson Griffin,
+"""Fire""",1232,Eliot Marshall,
+,1233,Danny Downes,
+"""KenFlo""",1234,Kenny Florian,http://www.fightmetric.com/fighter-details/cb139171ed1b69fe
+,1235,Matt Hughes,http://www.fightmetric.com/fighter-details/621a6c59f88a44fe
+,1236,Ricardo Romero,
+"""Eagle Eye""",1237,Donny Walker,
+,1238,Mike Lullo,
+"""The Barn Owl""",1239,Ian Loveland,
+"""Lights Out""",1240,Chris Lytle,
+"""The Spider""",1241,TJ O'Brien,
+,1242,Jason Reinhardt,
+,1243,Andre Winner,
+"""Daddy""",1244,Joe Stevenson,
+"""Showtime""",1245,Javier Vazquez,
+,1246,Curt Warburton,
+"""The Engineer""",1247,Shane Carwin,http://www.fightmetric.com/fighter-details/68dd7b3783c19f9c
+"""Water""",1248,Jesse Bongfeldt,
+,1249,Tim Credeur,http://www.fightmetric.com/fighter-details/89b8d1bf1ff09d1d
+"""Cold Steel""",1250,Chuck O'Neil,
+"""The Kid""",1251,Ryan McGillivray,
+"""Da Spyder""",1252,Kendall Grove,
+"""The Natural""",1253,Randy Couture,
+,1254,Charlie Valencia,
+,1255,Ryan Jensen,
+,1256,Kyle Watson,
+,1257,Jon Madsen,
+"""Savage""",1258,Kris McCray,
+,1259,Sean McCorkle,
+,1260,Mario Miranda,
+,1261,Waylon Lowe,
+"""Big Dog""",1262,Ricardo Almeida,
+"""Batman""",1263,Kurt Pellegrino,
+"""The Rosedale Reaper""",1264,Rob Kimmons,
+"""Bulldog""",1265,Todd Brown,
+,1266,Tom Blackledge,
+"""The Crowbar""",1267,Chris Tuchscherer,
+"""Irokez""",1268,Maciej Jewtuszko,
+,1269,Antonio Banuelos,
+,1270,Paul Kelly,
+"""Relentless""",1271,Paul Taylor,http://www.fightmetric.com/fighter-details/9b74de674c355425
+"""Godzilla""",1272,Gabe Ruediger,
+"""The Trashing Machine""",1273,Tim Hague,
+"""The Joker""",1274,Mike Guymon,
+"""Chiquerim""",1275,Willamy Freire,
+,1276,Amilcar Alves,
+"""The Irish Hand Grenade""",1277,Marcus Davis,
+"""The New York Bad Ass""",1278,Phil Baroni,
+,1279,Greg Soto,
+"""Mandingo""",1280,Antonio McKee,
+"""El Dirte""",1281,Joe Doerksen,
+"""McLovin""",1282,Dustin Hazelett,
+"""Awesomely Awesome""",1283,Pat Audinwood,
+"""The Daywalker""",1284,Aaron Wilkinson,
+,1285,Tyler Toner,
+,1286,Sako Chivitchian,
+,1287,Fredson Paixao,
+,1288,Gerald Harris,
+"""Big Rig""",1289,Maiquel Falcao,
+"""The Foster Boy""",1290,Brian Foster,
+"""The Heat""",1291,Karo Parisyan,
+,1292,Goran Reljic,
+,1293,Nick Osipczak,
+"""Cacareco""",1294,Alexandre Ferreira,
+,1295,Mark Scanlon,
+"""The Silverback""",1296,Seth Petruzelli,
+"""The Hurricane""",1297,Gilbert Yvel,
+"""Lightning""",1298,James Wilks,
+"""Spartan""",1299,Vinicius Queiroz,
+"""Boots""",1300,Mark Holst,
+"""The Hammer""",1301,James McSweeney,
+"""The Terra""",1302,Matt Serra,http://www.fightmetric.com/fighter-details/86dfed7cc24a9fa7
+"""The Muscle Shark""",1303,Sean Sherk,http://www.fightmetric.com/fighter-details/029880cdbf5ca089
+,1304,Steve Lopez,
+"""The Dominican Demon""",1305,Julio Paulino,
+"""Quick Guns""",1306,John Gunderson,
+"""Gorilla""",1307,Tomasz Drwal,
+"""The Meat Cleaver""",1308,Forrest Petz,
+"""Lights Out""",1309,James Toney,
+,1310,John Salter,
+"""Shonuff the Master""",1311,Rodney Wallace,
+"""The Sandman""",1312,James Irvin,
+"""The Hooligan""",1313,Steve Steinbeiss,
+"""The Dean of Mean""",1314,Keith Jardine,
+"""The Chosyn 1""",1315,Jamie Yager,
+"""The Beast""",1316,Josh Bryant,
+"""The Sledge""",1317,James Hammortree,
+"""The Iceman""",1318,Chuck Liddell,
+"""The Crow""",1319,David Loiseau,
+"""The Ox""",1320,Jesse Lennox,
+"""The Upgrade""",1321,Dan Lauzon,
+"""The South Side Strangler""",1322,Joe Brammer,
+"""Kid Hercules""",1323,Jesse Forbes,
+"""Semtex""",1324,Paul Daley,
+"""Kimbo Slice""",1325,Kevin Ferguson,http://www.fightmetric.com/fighter-details/27541033b97c076d
+"""The Road Warrior""",1326,Jonathan Goulet,
+"""Zenko""",1327,Yoshiyuki Yoshida,
+,1328,Renzo Gracie,
+"""Bad Brad""",1329,Brad Blackburn,
+,1330,Matt Veach,
+,1331,Mostapha Al-Turk,
+"""Rock""",1332,Nate Quarry,
+,1333,Ronys Torres,
+"""The Saint""",1334,Rob Emerson,
+"""Uno Shoten""",1335,Caol Uno,
+,1336,Lucio Linhares,
+,1337,Rory Markham,
+"""The Headhunter""",1338,Paul Buentello,
+,1339,Shannon Gugerty,
+,1340,Chase Gormley,
+"""The Hammer""",1341,Mark Coleman,
+"""Twinkle Toes""",1342,Frank Trigg,
+,1343,Justin Buchholz,
+,1344,Rolles Gracie,
+,1345,Jay Silva,
+,1346,Kyle Bradley,
+,1347,Wilson Gouveia,
+"""Sugar""",1348,Shane Nelson,
+"""The Fire""",1349,Kevin Burns,
+"""The Assassin""",1350,Houston Alexander,
+"""The Darkness""",1351,Marcus Jones,
+"""The Boss""",1352,Darrill Schoonover,
+"""The Viking""",1353,Justin Wren,
+,1354,Jake Rosholt,
+,1355,Brock Larson,
+"""Dynamite""",1356,Jason Dent,
+,1357,Denis Kang,
+"""Roli""",1358,Rolando Delgado,
+,1359,Antoni Hardonk,
+,1360,Razak Al-Hassan,
+,1361,Hermes Franca,
+"""The Massacre""",1362,Drew McFedries,
+"""El Matador""",1363,Roger Huerta,
+"""The Professor""",1364,Chris Wilson,
+"""The Insane One""",1365,Justin McCully,
+"""Maximus""",1366,Marcus Aurelio,
+,1367,Dan Cramer,
+"""Indio""",1368,Danillo Villefort,
+"""Irish""",1369,Jake O'Brien,
+,1370,Mike Ciesnolevicz,
+,1371,Frank Lester,
+,1372,Cameron Dollar,
+,1373,Dale Hartt,
+,1374,Denis Stojnic,
+"""Professor X""",1375,Xavier Foupa-Pokam,
+,1376,Andre Gusmao,
+,1377,Brandon Wolff,
+"""Diamond""",1378,David Kaplan,
+,1379,David Bielkheden,
+"""Piranah""",1380,Ryo Chonan,
+"""The Fury""",1381,Carmelo Marrero,
+,1382,Junie Browning,
+"""Suave""",1383,Matt Horwich,
+,1384,Jesse Sanders,
+,1385,Nissen Osterneck,
+"""The Doctor""",1386,Joe Vedepo,
+,1387,Tim McKenzie,
+"""Drago""",1388,Pete Sell,
+,1389,Ryan Madigan,
+"""Dooms""",1390,Jason Day,
+,1391,Michael Patt,
+,1392,Brian Cobb,
+,1393,Per Eklund,
+"""Goliath""",1394,Neil Grove,
+"""Rude Boy""",1395,Troy Mandaloniz,
+,1396,Luigi Fioravanti,
+"""No Love""",1397,Rich Clementi,
+,1398,Derek Downey,
+"""Hollywood""",1399,Steve Bruno,
+,1400,Akihiro Gono,
+"""The Hungarian Nightmare""",1401,Christian Wellisch,
+"""No Regard""",1402,Matt Arroyo,
+"""Gumby""",1403,Jeremy Horn,
+,1404,Tom Egan,
+"""Baixinho""",1405,Alexandre Barros,
+"""Samurai""",1406,Antonio Mendes,
+,1407,Ivan Serati,
+,1408,Nate Mohr,
+"""The Boogeyman""",1409,Dean Lister,
+"""Juggernaut""",1410,Mike Wessel,
+"""Riptide""",1411,Reese Andy,
+"""The Viking""",1412,Dan Evensen,
+,1413,Shane Primm,
+,1414,Jules Bruchez,
+"""Buckets of Blood""",1415,John Polakowski,
+,1416,Nate Loughran,
+,1417,Brodie Farber,
+"""The Hater Hurter""",1418,Johnny Rees,
+,1419,Corey Hill,
+"""The Manic Hispanic""",1420,Eddie Sanchez,
+,1421,Josh Hendricks,
+,1422,Jorge Gurgel,
+,1423,Alvin Robinson,
+"""The Tank Engine""",1424,Ryan Thomas,
+"""The African Assassin""",1425,Rameau Thierry Sokoudjou,
+"""Old School""",1426,Neil Wain,
+"""The Joker""",1427,Jess Liaudin,
+,1428,David Baron,
+,1429,Samy Schiavo,
+,1430,Brad Morris,
+"""The Punisher""",1431,Jason Lambert,
+"""The Texas Crazy Horse""",1432,Heath Herring,http://www.fightmetric.com/fighter-details/7450525c7ba032a0
+,1433,Luke Cummo,
+,1434,Cale Yarbrough,
+,1435,James Giboo,
+,1436,Evan Tanner,
+,1437,Dante Rivera,
+"""The Beastman""",1438,Marvin Eastman,
+"""Monster""",1439,Rob Yundt,
+,1440,Ivan Salaverry,
+"""Kaz""",1441,Kazuhiro Nakamura,
+"""War Machine""",1442,Jon Koppenhaver,
+,1443,Jason Tan,
+"""The Serial Killer""",1444,Travis Lutter,
+,1445,Kalib Starnes,
+"""Chainsaw""",1446,Charles McCarthy,
+,1447,Kuniyoshi Hironaka,
+"""Dinyero""",1448,Din Thomas,
+,1449,Ryan Roberts,
+"""The Grinder""",1450,Jeff Cox,
+,1451,Roman Mitichyan,
+,1452,Tommy Speer,
+"""The Hurricane""",1453,John Halverson,
+"""The Maine-iac""",1454,Tim Sylvia,
+,1455,David Heath,
+,1456,Terry Martin,
+,1457,Alberto Crane,
+,1458,Joe Veres,
+"""Big C""",1459,Colin Robinson,
+,1460,James Lee,
+,1461,Jordan Radev,
+,1462,Tony DeSouza,
+,1463,Doug Evans,
+"""J-Roc""",1464,Jared Rollins,
+"""The Kid""",1465,Billy Miles,
+"""The Fireman""",1466,Dan Barrera,
+"""The Dirty Samurai""",1467,Richie Hightower,
+,1468,John Kolosci,
+,1469,Dorian Price,
+,1470,Paul Georgieff,
+"""Lil' Hulk""",1471,Luke Caudillo,
+"""The Black Legion""",1472,Jason Black,
+"""The Octopus""",1473,Diego Saraiva,
+,1474,Scott Junk,
+"""Crocota""",1475,Edilberto de Oliveira,
+"""The Crush""",1476,Anthony Torres,
+"""Babalu""",1477,Renato Sobral,
+,1478,Mike Nickels,
+,1479,Jason Gilliam,
+"""Little Evil""",1480,Jens Pulver,
+,1481,Floyd Sword,
+"""The Murderer""",1482,Brandon Melendez,
+,1483,Andy Wang,
+"""Monstah Lobstah""",1484,Allen Berube,
+"""Duke""",1485,Brian Geraghty,
+"""Sick Dog""",1486,Hector Ramirez,
+"""Outburst""",1487,Rory Singer,
+"""Hands of Steel""",1488,Scott Smith,
+,1489,Stevie Lynch,
+"""The Secret Weapon""",1490,Pete Spratt,
+"""The Grinder""",1491,Chad Reiner,
+,1492,Sean Salmon,
+"""The King of Rock n' Rumble""",1493,Elvis Sinosic,
+,1494,Assuerio Silva,
+,1495,David Lee,
+"""The Matrix""",1496,Victor Valimaki,
+"""Hillbilly Heartthrob""",1497,Brad Imes,
+"""Bring the Pain""",1498,Josh Haynes,
+,1499,Dokonjonosuke Mishima,
+"""The Master""",1500,Drew Fickett,
+"""Big Dog""",1501,Rex Holman,
+"""The Alaskan Assassin""",1502,Sam Hoger,
+"""The Exorcist""",1503,Chris Price,
+"""The Gladiator""",1504,Ross Pointon,
+"""Pe de Pano""",1505,Marcio Cruz,
+"""The Inferno""",1506,Jeff Joslin,
+"""Mr. International""",1507,Shonie Carter,
+"""The Warrior""",1508,Dave Menne,
+,1509,Logan Clark,
+"""The Sergeant""",1510,Steve Byrnes,
+"""The Snowman""",1511,Jeff Monson,
+"""The Tank""",1512,Sherman Pendergarst,
+"""The War Hammer""",1513,Josh Shockman,
+"""Babyface""",1514,Edwin DeWees,
+"""Scorpion""",1515,Jeremy Jackson,
+,1516,Gideon Ray,
+,1517,Justin James,
+"""The World's Most Dangerous Man""",1518,Ken Shamrock,
+"""Blaze""",1519,Crafton Wallace,
+"""Sukata""",1520,Mario Neto,
+"""The Assassin""",1521,Danny Abbadi,
+"""Maximus""",1522,Rob MacDonald,
+"""The Soldier""",1523,Wes Combs,
+"""Hardcore""",1524,Cory Walmsley,
+,1525,Yuki Sasaki,
+"""Live Wire""",1526,Jason Von Flue,
+"""The Hurricane""",1527,Kristof Midoux,
+"""The Squeeze""",1528,Sammy Morgan,
+"""The Sandman""",1529,Dan Christison,
+,1530,Joe Jordan,
+"""El Peligro""",1531,Gilbert Aldana,
+"""The Iron Lion""",1532,Branden Lee Hinkle,
+,1533,Kristian Rothaermel,
+"""The Executioner""",1534,Justin Levens,
+"""King""",1535,Solomon Hutcherson,
+,1536,Royce Gracie,
+"""Pegaleve""",1537,Fabiano Scherner,
+"""The Flying Squirrel""",1538,Rick Davis,
+"""The Goat""",1539,Nick Thompson,
+"""The Soul Assassin""",1540,David Terrell,
+"""The Eraser""",1541,Derrick Noble,
+,1542,Ansar Chalangov,
+,1543,Trevor Prangley,
+"""Lionheart""",1544,Steve Vigneault,
+,1545,Tom Murphy,
+,1546,Icho Larenas,
+"""The Hammer""",1547,Justin Eilers,
+,1548,Mike van Arsdale,
+,1549,Mike Whitehead,
+"""The Assassin""",1550,Alex Karalexis,
+"""The Shaman""",1551,Kevin Jordan,
+,1552,Jeff Newton,
+"""Havoc""",1553,Kit Cope,
+"""Meat Truck""",1554,Kerry Schall,
+"""The Cannon""",1555,Sean Gannon,
+,1556,Keigo Kunihara,
+,1557,Ron Faircloth,
+"""Trauma""",1558,Tra Telligman,
+,1559,Brian Gassaway,
+"""The Law""",1560,Matt Lindland,
+"""The Butcher""",1561,Bill Mahood,
+,1562,Koji Oishi,
+"""The Diesel""",1563,Travis Wiuff,
+,1564,John Marsh,
+,1565,Bobby Southworth,
+,1566,Jason Thacker,
+,1567,Chris Sanford,
+,1568,Lodune Sincaid,
+,1569,Alex Schoenauer,
+,1570,Josh Rafferty,
+"""MAK""",1571,Mike Kyle,
+"""Charuto""",1572,Renato Verissimo,
+"""The Freak""",1573,Tony Fryklund,
+"""Tiger""",1574,Vernon White,
+"""The Machine Gun""",1575,Ronald Jhun,
+,1576,Kimo Leopoldo,
+,1577,Curtis Stout,
+,1578,Tiki Ghosn,
+"""Cabbage""",1579,Wesley Correira,
+"""The Project""",1580,Wes Sims,
+,1581,Jonathan Wiezorek,
+"""The Nightmare""",1582,Wade Shipp,
+"""Neo-Samurai""",1583,Genki Sudo,
+"""The Ronin""",1584,Carlos Newton,
+"""Lightning""",1585,Lee Murray,
+"""Niko""",1586,Falaniko Vitale,
+"""Tank""",1587,David Abbott,
+"""The Rock""",1588,Pedro Rizzo,
+"""Suave""",1589,Ricco Rodriguez,
+"""Rock""",1590,Keith Rockel,
+,1591,Chris Liguori,
+,1592,Nick Agallar,
+"""The Giant""",1593,Gan McGee,
+,1594,Dave Strasser,
+"""The Finishing Machine""",1595,Gerald Strebendt,
+"""The Machine""",1596,Ian Freeman,
+,1597,Eddie Ruiz,
+,1598,Romie Aram,
+,1599,Sean Alvarez,
+"""Cleat""",1600,Richard Crunkilton,
+"""The Wizard""",1601,Mark Weir,
+"""Cafe""",1602,Alexandre Dantas,
+,1603,Gil Castillo,
+,1604,Phillip Miller,
+"""Razor""",1605,Benji Radach,
+"""The Wolf""",1606,Eugene Jackson,
+"""Bulldog""",1607,Leigh Remedios,
+"""The Messenger""",1608,James Zikic,
+"""The Hammer""",1609,Chris Haseman,
+"""The Mad Monkey""",1610,Nick Serra,
+,1611,Zach Light,
+"""The Red Nosed Pitbull""",1612,Steve Berger,
+,1613,Rodrigo Ruas,
+,1614,Joao Pierini,
+,1615,Murilo Bustamante,
+"""TK""",1616,Tsuyoshi Kohsaka,
+,1617,Paul Creighton,
+,1618,Amar Suloev,
+,1619,Andrei Semenov,
+"""Mach""",1620,Hayato Sakurai,
+"""The Croatian Sensation""",1621,Pat Miletich,
+"""El Duro""",1622,Pete Williams,
+"""Psycho""",1623,Kelly Dullanty,
+,1624,Jutaro Nakao,
+"""The Monster""",1625,Kevin Randleman,
+"""The Westside Strangler""",1626,Chris Brennan,
+"""The Truth""",1627,Bobby Hoffman,
+"""The Rock""",1628,Homer Moore,
+"""Spider""",1629,Roberto Traven,
+,1630,Fabiano Iha,
+"""Hightower""",1631,Semmy Schilt,
+,1632,Yuki Kondo,
+,1633,Paul Rodriguez,
+,1634,Joey Gilbert,
+,1635,Phil Johns,
+"""White Rhino""",1636,Mark Robinson,
+,1637,Kenichi Yamamoto,
+"""Mr. 200%""",1638,Yoji Anjo,
+,1639,Daiju Takase,
+"""Fearless""",1640,Lance Gibson,
+,1641,Maurice Smith,
+,1642,Aaron Brink,
+,1643,John Lewis,
+,1644,Mark Hughes,
+"""The Brazilian Killa""",1645,Alex Stiebling,
+,1646,Ben Earwood,
+"""The Beast""",1647,Dan Severn,
+,1648,Laverne Clark,
+,1649,Tedd Williams,
+"""The Bohemian""",1650,Tim Lajcik,
+,1651,Brad Gumm,
+,1652,CJ Fernandes,
+"""Native Warrior""",1653,Tyrone Roberts,
+,1654,David Dodd,
+,1655,Amaury Bitetti,
+"""El Toro""",1656,Alex Andrade,
+,1657,Marcelo Aguiar,
+,1658,Joao Roque,
+,1659,Nate Schroeder,
+,1660,Adrian Serrano,
+,1661,Sanae Kikuta,
+"""H20""",1662,Ron Waterman,
+,1663,Satoshi Honma,
+"""Minowaman""",1664,Ikuhisa Minowa,
+,1665,Joe Slick,
+,1666,Steve Judson,
+,1667,Jermaine Andre,
+"""Crazy""",1668,Bob Cook,
+"""Little""",1669,David Velasquez,
+,1670,Scott Adams,
+"""Shamoji""",1671,Katsuhisa Fujii,
+,1672,Jason DeLucia,
+,1673,Keiichiro Yamamiya,
+,1674,Masutatsu Yano,
+,1675,Frank Shamrock,
+,1676,Jason Godsey,
+,1677,Brad Kohler,
+,1678,Paul Jones,
+,1679,Valeri Ignatov,
+,1680,Lowell Anderson,
+,1681,Alfonso Alcarez,
+"""King of the Streets""",1682,Marco Ruas,
+,1683,Andre Pederneiras,
+,1684,Flavio Luiz Moura,
+,1685,Royce Alger,
+"""The Chief""",1686,Andre Roberts,
+"""The Ironman""",1687,Travis Fulton,
+"""El Guapo""",1688,Bas Rutten,
+,1689,Tony Petarra,
+,1690,Marcelo Mello,
+,1691,David Roberts,
+,1692,Chris Condo,
+,1693,Guy Mezger,
+"""Big Daddy""",1694,Gary Goodridge,
+,1695,Sione Latu,
+,1696,Joey Roberts,
+"""Macaco""",1697,Jorge Patino,
+,1698,Jerry Bohlander,
+"""The Eastside Assassin""",1699,Mikey Burnett,
+,1700,Townsend Saunders,
+,1701,Darrel Gholar,
+,1702,Frank Caracci,
+"""The Machine""",1703,John Lober,
+"""Pitbull""",1704,Ebenezer Fontes Braga,
+,1705,Tulio Palhares,
+,1706,Adriano Santos,
+,1707,Cesar Marscucci,
+,1708,Paulo Santos,
+,1709,Hugo Duarte,
+,1710,Joe Pardo,
+,1711,Bob Gilstrap,
+,1712,Allan Goes,
+"""Dirty""",1713,Harry Moskowitz,
+,1714,Noe Hernandez,
+"""Houdini""",1715,Igor Zinoviev,
+,1716,Kevin Jackson,
+,1717,Eugenio Tadeu,
+,1718,Courtney Turner,
+,1719,Josh Stuart,http://www.fightmetric.com/fighter-details/601cf40c09090853
+"""The Gracie Hunter""",1720,Kazushi Sakuraba,
+"""Conan""",1721,Marcus Silveira,
+"""The Ghetto Man""",1722,Joe Charles,
+"""The Smashing Machine""",1723,Mark Kerr,
+,1724,Dwayne Cason,
+"""Dangerous""",1725,Dave Beneteau,
+,1726,Carlos Barreto,
+"""Ranger""",1727,Greg Stott,
+,1728,Houston Dorr,
+,1729,Alex Hunter,
+,1730,Dan Bobish,
+,1731,Brian Johnston,
+,1732,Moti Horenstein,
+,1733,Todd Butler,
+,1734,Joe Moreira,
+,1735,Yuri Vaulin,
+,1736,Sam Fulton,
+,1737,Donnie Chappell,
+,1738,Steven Graham,
+,1739,Tony Halme,
+,1740,Dmitri Stepanov,
+"""Yamato Damashii""",1741,Enson Inoue,
+,1742,Christophe Leninger,
+,1743,Jack Nilson,
+,1744,Saeed Hosseini,
+,1745,Wes Albritton,
+"""The Pitbull""",1746,Scott Ferrozzo,
+,1747,Nick Sanzo,
+,1748,Jim Mullen,
+"""Kazuo""",1749,Yoshiki Takahashi,
+,1750,Wallid Ismail,
+,1751,Rainy Martinez,
+,1752,Justin Martin,
+,1753,Eric Martin,
+,1754,Jackie Lee,
+"""The Predator""",1755,Don Frye,
+"""The Sandman""",1756,Steve Nelmark,
+,1757,Mark Hall,
+"""The Polar Bear""",1758,Paul Varelans,
+,1759,Cal Worsham,
+,1760,Tai Bowden,
+"""The Grasshopper""",1761,Marcus Bossett,
+,1762,Felix Lee Mitchell,
+,1763,Fabio Gurgel,
+"""The Experience""",1764,Sam Adkins,
+,1765,Reza Nasri,
+,1766,Julian Sanchez,
+,1767,Dave Berry,
+,1768,John Campetella,
+,1769,Scott Fiedler,
+,1770,Geza Kalman,
+,1771,Dieusel Berto,
+,1772,Koji Kitao,
+,1773,Mark Schultz,
+,1774,Rafael Carino,
+,1775,Matt Andersen,
+"""Nasty""",1776,Zane Frazier,
+"""The Bone Crusher""",1777,Paul Herrera,
+,1778,Thomas Ramirez,
+,1779,Keith Mielke,
+"""The Russian Bear""",1780,Oleg Taktarov,
+"""The Giant Killer""",1781,Keith Hackney,
+,1782,Steve Jennum,
+,1783,Trent Jenkins,
+,1784,Scott Bessac,
+"""Grizzly""",1785,Remco Pardoel,
+,1786,Larry Cureton,
+,1787,Ryan Parker,
+,1788,Harold Howard,
+,1789,Gerry Harris,
+,1790,David Hood,
+,1791,Onassis Parungao,
+,1792,Francesco Maturi,
+,1793,Joel Sutton,
+"""Mad Dog""",1794,Anthony Macias,
+,1795,Patrick Smith,
+,1796,Rudyard Moncayo,
+,1797,John Matua,
+,1798,He-Man Gipson,
+,1799,Jack McGlaughlin,
+"""El Tiburon""",1800,Todd Medina,
+,1801,Ernie Verdicia,
+,1802,Jon Hess,
+"""The Hammer""",1803,Andy Anderson,
+,1804,John Dowdy,
+,1805,Asbel Cancio,
+"""The Punisher""",1806,Melton Bowen,
+,1807,Joe Son,
+"""The Black Dragon""",1808,Ron van Clief,
+,1809,Jason Fairn,
+,1810,Eldo Xavier Dias,
+,1811,Kevin Rosier,
+,1812,Roland Payne,
+,1813,Emmanuel Yarborough,
+,1814,Johnny Rhodes,
+"""The Gladiator""",1815,Orlando Wiet,
+,1816,Fred Ettish,
+,1817,Scott Morris,
+,1818,Minoki Ichihara,
+,1819,Scott Baker,
+,1820,Alberta Cerra Leon,
+,1821,Robert Lucarelli,
+,1822,Frank Hamaker,
+,1823,Thaddeus Luster,
+,1824,David Levicki,
+,1825,Ray Wizard,
+,1826,Sean Daugherty,
+,1827,Gerard Gordeau,
+,1828,Art Jimmerson,
+,1829,Teila Tuli,
