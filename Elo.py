@@ -30,8 +30,8 @@ for row in reader:
     for i in range(0, len(row) - 1):
         fight[str(headers[i])] = row[i]
 
-    fight["fighter1"] = fighters[int(fight["fighter1"])]["display_name"]
-    fight["fighter2"] = fighters[int(fight["fighter2"])]["display_name"]
+    fight["fighter1_display_name"] = fighters[int(fight["fighter1"])]["display_name"]
+    fight["fighter2_display_name"] = fighters[int(fight["fighter2"])]["display_name"]
     fights.append(fight)
 
 print("Number of fighters: " + str(len(fighters)))
@@ -55,8 +55,8 @@ def get_k_value(number_of_fights):
 # Iterate through the fights, calculate elo after each fight
 
 for fight in reversed(fights):
-    fighter_1 = fight["fighter1"]
-    fighter_2 = fight["fighter2"]
+    fighter_1 = fight["fighter1_display_name"]
+    fighter_2 = fight["fighter2_display_name"]
 
     fighter_1_elo = elo[fighter_1]
     fighter_2_elo = elo[fighter_2]
@@ -96,14 +96,7 @@ for fight in reversed(fights):
     elo[fighter_1] = fight["fighter1_after_elo"]
     elo[fighter_2] = fight["fighter2_after_elo"]
 
-    """
-    if fight["Fighter1"] == "Conor McGregor":
-        print("win: " + str(elo[fighter_1]) + fighter_2)
-    if fight["Fighter2"] == "Conor McGregor":
-        print("loss: " + str(elo[fighter_2]) + fighter_1)
-    """
-
-
+"""
 print(elo['Conor McGregor ("The Notorious")'])
 print(elo['Khabib Nurmagomedov ("The Eagle")'])
 
@@ -114,3 +107,43 @@ print(fighter_2_expected_outcome)
 
 sorted_elo = sorted(elo.items(), key=operator.itemgetter(1), reverse=True)
 print(sorted_elo[:20])
+"""
+
+output = open('stats/FightsElo.csv', 'w', newline="")
+keys = [
+    'fight_id',
+    'fighter1',
+    'fighter2',
+    'fighter1_elo',
+    'fighter2_elo',
+]
+writer = csv.DictWriter(output, keys)
+writer.writeheader()
+
+correct = 0
+total = 0
+for fight in fights:
+    fighter1_elo = fight["fighter1_before_elo"]
+    fighter2_elo = fight["fighter2_before_elo"]
+    elo_data = {
+        "fight_id": fight["id"],
+        "fighter1": fight["fighter1"],
+        "fighter2": fight["fighter2"],
+        "fighter1_elo": fighter1_elo,
+        "fighter2_elo": fighter2_elo
+    }
+    writer.writerow(elo_data)
+
+    # Calculate elo accuracy
+    if fight["result"] == "W":
+        total += 1
+        if fighter1_elo >= fighter2_elo:
+            correct += 1
+    if fight["result"] == "L":
+        total += 1
+        if fighter2_elo >= fighter1_elo:
+            correct += 1
+
+print("Correct guessed: " + str(correct))
+print("Total guessed: " + str(total))
+print("Accuracy: " + str(correct/total))
