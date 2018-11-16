@@ -14,6 +14,7 @@ def process_file(file_name):
         all.append(single)
     return all
 
+
 # Fetch raw data
 
 events = process_file('stats/FightMetricEvents.csv')
@@ -29,7 +30,7 @@ for fighter in fighters:
     id = fighter["id"]
 
     if len(fighter["url"]) == 0:
-        continue # Skip fighters with incomplete data
+        continue  # Skip fighters with incomplete data
 
     fight_record = {
         "total_wins": int(fighter["record_wins"]),
@@ -54,7 +55,7 @@ for fighter in fighters:
     fighter["takedowns_so_far"] = 0
     fighter["takedowns_att_so_far"] = 0
     fighter["submission_att_so_far"] = 0
-    #fighter["pass_guard_so_far"] = 0
+    # fighter["pass_guard_so_far"] = 0
     fighter["reverse_pos_so_far"] = 0
     fighter["strikes_head_so_far"] = 0
     fighter["strikes_head_att_so_far"] = 0
@@ -125,7 +126,7 @@ for fight in reversed(fights):
     elif result == "D":
         nn_result = 0.5
     else:
-        continue # Skip no contests
+        continue  # Skip no contests
 
     if debug:
         print("Result: " + str(nn_result))
@@ -237,8 +238,8 @@ for fight in reversed(fights):
 
     # Get average fight duration difference
 
-    fighter1_fight_duration = fighter1["fight_duration_so_far"] / 60 # Convert minutes to seconds
-    fighter2_fight_duration = fighter2["fight_duration_so_far"] / 60 # Convert minutes to seconds
+    fighter1_fight_duration = fighter1["fight_duration_so_far"] / 60  # Convert minutes to seconds
+    fighter2_fight_duration = fighter2["fight_duration_so_far"] / 60  # Convert minutes to seconds
     fighter1_ufc_fight_count = fighter1_wins_so_far + fighter1_losses_so_far + fighter1_draws_so_far
     fighter2_ufc_fight_count = fighter2_wins_so_far + fighter2_losses_so_far + fighter2_draws_so_far
 
@@ -403,8 +404,10 @@ for fight in reversed(fights):
 
     # Get average distance strikes attempted per minute difference
 
-    fighter1_strikes_distance_attempted_per_min = fighter1["strikes_distance_att_so_far"] / fighter1_average_fight_duration
-    fighter2_strikes_distance_attempted_per_min = fighter2["strikes_distance_att_so_far"] / fighter2_average_fight_duration
+    fighter1_strikes_distance_attempted_per_min = fighter1[
+                                                      "strikes_distance_att_so_far"] / fighter1_average_fight_duration
+    fighter2_strikes_distance_attempted_per_min = fighter2[
+                                                      "strikes_distance_att_so_far"] / fighter2_average_fight_duration
     nn_strikes_distance_attempted = fighter1_strikes_distance_attempted_per_min - fighter2_strikes_distance_attempted_per_min
 
     if debug:
@@ -551,8 +554,8 @@ for fight in reversed(fights):
     fighter1["submission_att_so_far"] += int(fight["fighter1_submission_attempts"])
     fighter2["submission_att_so_far"] += int(fight["fighter2_submission_attempts"])
 
-    #fighter1["pass_guard_so_far"] += int(fight["fighter1_pass"])
-    #fighter2["pass_guard_so_far"] += int(fight["fighter2_pass"])
+    # fighter1["pass_guard_so_far"] += int(fight["fighter1_pass"])
+    # fighter2["pass_guard_so_far"] += int(fight["fighter2_pass"])
 
     fighter1["reverse_pos_so_far"] += int(fight["fighter1_rev"])
     fighter2["reverse_pos_so_far"] += int(fight["fighter2_rev"])
@@ -595,11 +598,21 @@ for fight in reversed(fights):
 
     nn_id += 1
 
-def write_csv_file(file_name, dict):
+
+def write_csv_file(file_name, list):
     file = open(file_name, 'w', newline="")
-    keys = dict[0].keys()
-    writer = csv.DictWriter(file, keys)
+    stats = ["age_days", "ufc_draws", "avg_takedowns_att_per_min", "avg_sig_strikes_per_min",
+             "non_ufc_wins", "avg_fight_duration_mins", "id", "avg_sig_strikes_att_per_min",
+             "non_ufc_losses", "height_inches", "avg_takedowns_per_min", "ufc_wins", "result",
+             "weight_lbs", "ufc_losses", "reach_inches", "avg_knockdowns_per_min", "elo",
+             "avg_submission_att_per_min", "is_orthodox", "non_ufc_draws"]
+    writer = csv.DictWriter(file, stats)
     writer.writeheader()
-    writer.writerows(dict)
+    for dict in list:
+        dict_stats = {}
+        for stat in stats:
+            dict_stats[stat] = dict[stat]
+        writer.writerow(dict_stats)
+
 
 write_csv_file('stats/NeuralNetworkData.csv', neural_net_fights)
