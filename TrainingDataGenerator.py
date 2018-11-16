@@ -104,6 +104,7 @@ for k in fight_records.keys():
 neural_net_fights = []
 debug = False
 
+nn_id = 0
 for fight in reversed(fights):
     fighter1 = fighters[int(fight["fighter1"])]
     fighter2 = fighters[int(fight["fighter2"])]
@@ -448,6 +449,7 @@ for fight in reversed(fights):
     # Build dictionary
 
     nn_fight = {
+        "id": nn_id,
         "result": nn_result,
         "elo": nn_elo,
         "height_inches": nn_height,
@@ -461,6 +463,17 @@ for fight in reversed(fights):
         "ufc_wins": nn_ufc_wins,
         "ufc_losses": nn_ufc_losses,
         "ufc_draws": nn_ufc_draws,
+
+        "avg_fight_duration_mins": nn_fight_duration,
+        "avg_knockdowns_per_min": nn_knockdowns,
+        "avg_sig_strikes_per_min": nn_sig_strikes,
+        "avg_sig_strikes_att_per_min": nn_sig_strikes_attempted,
+        "avg_takedowns_per_min": nn_takedowns,
+        "avg_takedowns_att_per_min": nn_takedowns_attempted,
+        "avg_submission_att_per_min": nn_submissions_attempted
+
+    }
+    """
         "avg_fight_duration_mins": nn_fight_duration,
         "avg_knockdowns_per_min": nn_knockdowns,
         "avg_sig_strikes_per_min": nn_sig_strikes,
@@ -484,7 +497,7 @@ for fight in reversed(fights):
         "avg_sig_strikes_clinch_att_per_min": nn_strikes_clinch_attempted,
         "avg_sig_strikes_ground_per_min": nn_strikes_ground,
         "avg_sig_strikes_ground_att_per_min": nn_strikes_ground_attempted
-    }
+    """
 
     neural_net_fights.append(nn_fight)
 
@@ -579,6 +592,8 @@ for fight in reversed(fights):
 
     fighter1["strikes_ground_att_so_far"] += int(fight["fighter1_sig_strikes_ground_attempt"])
     fighter2["strikes_ground_att_so_far"] += int(fight["fighter2_sig_strikes_ground_attempt"])
+
+    nn_id += 1
 
 def write_csv_file(file_name, dict):
     file = open(file_name, 'w', newline="")
